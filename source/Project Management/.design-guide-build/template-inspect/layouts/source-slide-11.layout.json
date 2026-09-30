@@ -1,0 +1,2154 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jetc3ut0",
+    "id": "jetc3ut0",
+    "slide": 11,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Aptos Display"
+      },
+      "minorFont": {
+        "latinTypeface": "Aptos"
+      }
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Orbitron",
+      "Orbitron ExtraBold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/3",
+          "id": "3",
+          "name": "Content Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "2026-05-03",
+          "textPreview": "2026-05-03",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026-05-03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026-05-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "2026-05-03",
+          "textPreview": "2026-05-03",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026-05-03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026-05-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcryxg7y",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        88,
+        38.33,
+        1104,
+        139.17
+      ],
+      "text": "Crew",
+      "textPreview": "Crew",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 58.67,
+        "typeface": "Aptos Display",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Crew"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Crew",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Crew",
+              "typeface": "Orbitron ExtraBold"
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/tobid8vq",
+      "id": "3",
+      "name": "Content Placeholder 5",
+      "bbox": [
+        37,
+        191.67,
+        1213,
+        428.26
+      ],
+      "text": "Role | Name | Hometown | Date of Birth | Note\nCommander | Dr. Helena Chen | Ottawa, ON | 1977/12/30\nPilot | Jean Bouchard | Moncton, NB\nChief Engineer | Alistair Johnson | Waco, TX | Traitor\nScience Officer | Dr. Sarah Lancaster | Victoria, BC | Player’s character\nMedical Officer | Dr. Yuki Nakamura | Vancouver, BC\nMission Specialist | Anika Johansson | Regina, SK\nFlight Director | Gilles Ouellet | Montreal, QC\nScience Specialist | Dr. George Leavitt | Calgary, AB\nFlight Surgeon | Dr. Henrik Baird | Halifax, NS\nPublic Affairs Officer | Priya Chandra | Toronto, ON",
+      "textPreview": "Role | Name | Hometown | Date of Birth | Note | Commander | Dr. Helena Chen | Ottawa, ON | 1977/12/30 | Pilot | Jean Bouchard | Moncton, ...",
+      "rows": 11,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            37,
+            191.67,
+            232,
+            38.93
+          ],
+          "text": "Role",
+          "textPreview": "Role",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Role",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Role",
+                  "fontSize": 21.33,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            269,
+            191.67,
+            231,
+            38.93
+          ],
+          "text": "Name",
+          "textPreview": "Name",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Name",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Name",
+                  "fontSize": 21.33,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            500,
+            191.67,
+            202.55,
+            38.93
+          ],
+          "text": "Hometown",
+          "textPreview": "Hometown",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hometown",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hometown",
+                  "fontSize": 21.33,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            702.55,
+            191.67,
+            176,
+            38.93
+          ],
+          "text": "Date of Birth",
+          "textPreview": "Date of Birth",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Date of Birth",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Date of Birth",
+                  "fontSize": 21.33,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            878.55,
+            191.67,
+            371.45,
+            38.93
+          ],
+          "text": "Note",
+          "textPreview": "Note",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Note",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Note",
+                  "fontSize": 21.33,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            37,
+            230.6,
+            232,
+            38.93
+          ],
+          "text": "Commander",
+          "textPreview": "Commander",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Commander",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Commander",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            269,
+            230.6,
+            231,
+            38.93
+          ],
+          "text": "Dr. Helena Chen",
+          "textPreview": "Dr. Helena Chen",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Helena Chen",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Helena Chen",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            500,
+            230.6,
+            202.55,
+            38.93
+          ],
+          "text": "Ottawa, ON",
+          "textPreview": "Ottawa, ON",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ottawa, ON",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ottawa, ON",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            702.55,
+            230.6,
+            176,
+            38.93
+          ],
+          "text": "1977/12/30",
+          "textPreview": "1977/12/30",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1977/12/30",
+              "lineSpacingPercent": 100000,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1977/12/30",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron",
+                  "color": "dk1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            878.55,
+            230.6,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            37,
+            269.53,
+            232,
+            38.93
+          ],
+          "text": "Pilot",
+          "textPreview": "Pilot",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Pilot",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Pilot",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            269,
+            269.53,
+            231,
+            38.93
+          ],
+          "text": "Jean Bouchard",
+          "textPreview": "Jean Bouchard",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Jean Bouchard",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Jean Bouchard",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            500,
+            269.53,
+            202.55,
+            38.93
+          ],
+          "text": "Moncton, NB",
+          "textPreview": "Moncton, NB",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Moncton, NB",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Moncton, NB",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            702.55,
+            269.53,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            878.55,
+            269.53,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            37,
+            308.47,
+            232,
+            38.93
+          ],
+          "text": "Chief Engineer",
+          "textPreview": "Chief Engineer",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Chief Engineer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Chief Engineer",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            269,
+            308.47,
+            231,
+            38.93
+          ],
+          "text": "Alistair Johnson",
+          "textPreview": "Alistair Johnson",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Alistair Johnson",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Alistair Johnson",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            500,
+            308.47,
+            202.55,
+            38.93
+          ],
+          "text": "Waco, TX",
+          "textPreview": "Waco, TX",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Waco, TX",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Waco, TX",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            702.55,
+            308.47,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            878.55,
+            308.47,
+            371.45,
+            38.93
+          ],
+          "text": "Traitor",
+          "textPreview": "Traitor",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Traitor",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Traitor",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            37,
+            347.4,
+            232,
+            38.93
+          ],
+          "text": "Science Officer",
+          "textPreview": "Science Officer",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Science Officer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Science Officer",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            269,
+            347.4,
+            231,
+            38.93
+          ],
+          "text": "Dr. Sarah Lancaster",
+          "textPreview": "Dr. Sarah Lancaster",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Sarah Lancaster",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Sarah Lancaster",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            500,
+            347.4,
+            202.55,
+            38.93
+          ],
+          "text": "Victoria, BC",
+          "textPreview": "Victoria, BC",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Victoria, BC",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Victoria, BC",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            702.55,
+            347.4,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            878.55,
+            347.4,
+            371.45,
+            38.93
+          ],
+          "text": "Player’s character",
+          "textPreview": "Player’s character",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Player’s character",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Player’s character",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            37,
+            386.33,
+            232,
+            38.93
+          ],
+          "text": "Medical Officer",
+          "textPreview": "Medical Officer",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Medical Officer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Medical Officer",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            269,
+            386.33,
+            231,
+            38.93
+          ],
+          "text": "Dr. Yuki Nakamura",
+          "textPreview": "Dr. Yuki Nakamura",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Yuki Nakamura",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Yuki Nakamura",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            500,
+            386.33,
+            202.55,
+            38.93
+          ],
+          "text": "Vancouver, BC",
+          "textPreview": "Vancouver, BC",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Vancouver, BC",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Vancouver, BC",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            702.55,
+            386.33,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 30,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            878.55,
+            386.33,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 31,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            37,
+            425.27,
+            232,
+            38.93
+          ],
+          "text": "Mission Specialist",
+          "textPreview": "Mission Specialist",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Mission Specialist",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Mission Specialist",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            269,
+            425.27,
+            231,
+            38.93
+          ],
+          "text": "Anika Johansson",
+          "textPreview": "Anika Johansson",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Anika Johansson",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Anika Johansson",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            500,
+            425.27,
+            202.55,
+            38.93
+          ],
+          "text": "Regina, SK",
+          "textPreview": "Regina, SK",
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Regina, SK",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Regina, SK",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            702.55,
+            425.27,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 35,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            878.55,
+            425.27,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "tx2",
+            "transform": {
+              "lighten": 0.75
+            }
+          }
+        },
+        {
+          "index": 36,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            37,
+            464.2,
+            232,
+            38.93
+          ],
+          "text": "Flight Director",
+          "textPreview": "Flight Director",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Flight Director",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Flight Director",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            269,
+            464.2,
+            231,
+            38.93
+          ],
+          "text": "Gilles Ouellet",
+          "textPreview": "Gilles Ouellet",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Gilles Ouellet",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Gilles Ouellet",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            500,
+            464.2,
+            202.55,
+            38.93
+          ],
+          "text": "Montreal, QC",
+          "textPreview": "Montreal, QC",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Montreal, QC",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Montreal, QC",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            702.55,
+            464.2,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 40,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            878.55,
+            464.2,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 41,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            37,
+            503.13,
+            232,
+            38.93
+          ],
+          "text": "Science Specialist",
+          "textPreview": "Science Specialist",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Science Specialist",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Science Specialist",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            269,
+            503.13,
+            231,
+            38.93
+          ],
+          "text": "Dr. George Leavitt",
+          "textPreview": "Dr. George Leavitt",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. George Leavitt",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. George Leavitt",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            500,
+            503.13,
+            202.55,
+            38.93
+          ],
+          "text": "Calgary, AB",
+          "textPreview": "Calgary, AB",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Calgary, AB",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Calgary, AB",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            702.55,
+            503.13,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 45,
+          "row": 9,
+          "column": 5,
+          "bbox": [
+            878.55,
+            503.13,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 46,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            37,
+            542.07,
+            232,
+            38.93
+          ],
+          "text": "Flight Surgeon",
+          "textPreview": "Flight Surgeon",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Flight Surgeon",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Flight Surgeon",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            269,
+            542.07,
+            231,
+            38.93
+          ],
+          "text": "Dr. Henrik Baird",
+          "textPreview": "Dr. Henrik Baird",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Henrik Baird",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Henrik Baird",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            500,
+            542.07,
+            202.55,
+            38.93
+          ],
+          "text": "Halifax, NS",
+          "textPreview": "Halifax, NS",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Halifax, NS",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Halifax, NS",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 10,
+          "column": 4,
+          "bbox": [
+            702.55,
+            542.07,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 50,
+          "row": 10,
+          "column": 5,
+          "bbox": [
+            878.55,
+            542.07,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 51,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            37,
+            581,
+            232,
+            38.93
+          ],
+          "text": "Public Affairs Officer",
+          "textPreview": "Public Affairs Officer",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Public Affairs Officer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Public Affairs Officer",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            269,
+            581,
+            231,
+            38.93
+          ],
+          "text": "Priya Chandra",
+          "textPreview": "Priya Chandra",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Priya Chandra",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Priya Chandra",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            500,
+            581,
+            202.55,
+            38.93
+          ],
+          "text": "Toronto, ON",
+          "textPreview": "Toronto, ON",
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Toronto, ON",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Toronto, ON",
+                  "fontSize": 18.67,
+                  "typeface": "Orbitron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 11,
+          "column": 4,
+          "bbox": [
+            702.55,
+            581,
+            176,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        },
+        {
+          "index": 55,
+          "row": 11,
+          "column": 5,
+          "bbox": [
+            878.55,
+            581,
+            371.45,
+            38.93
+          ],
+          "fillColor": {
+            "type": "theme",
+            "value": "accent2",
+            "transform": {
+              "lighten": 0.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

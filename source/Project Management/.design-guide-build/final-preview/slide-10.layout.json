@@ -1,0 +1,1154 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/l5beuj",
+    "id": "l5beuj",
+    "slide": 10,
+    "layoutId": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwbih4f2",
+      "id": "1",
+      "name": "top-rail",
+      "bbox": [
+        0,
+        0,
+        1280,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#A84420",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt0zmpgb",
+      "id": "2",
+      "name": "section",
+      "bbox": [
+        64,
+        34,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "APPLICATIONS",
+      "textPreview": "APPLICATIONS",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "APPLICATIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "APPLICATIONS",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "APPLICATIONS",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ru90fuxw",
+      "id": "3",
+      "name": "title",
+      "bbox": [
+        64,
+        64,
+        1140,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Crew cards need one visual generation",
+      "textPreview": "Crew cards need one visual generation",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Crew cards need one visual generation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Crew cards need one visual generation",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Crew cards need one visual generation",
+              "fontSize": 35,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z2hsjyd",
+      "id": "4",
+      "name": "footer-line",
+      "bbox": [
+        64,
+        678,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E5F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10bil4fy",
+      "id": "5",
+      "name": "footer",
+      "bbox": [
+        64,
+        688,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "textPreview": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#8B98A8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#8B98A8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+              "fontSize": 10,
+              "color": "#8B98A8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exkzq9gn",
+      "id": "6",
+      "name": "page",
+      "bbox": [
+        1130,
+        686,
+        86,
+        18
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 11,
+              "color": "#A84420",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyt0jex8",
+      "id": "7",
+      "name": "crew-bg-0",
+      "bbox": [
+        72,
+        156,
+        250,
+        354
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#16253C",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1knulgje",
+      "id": "8",
+      "bbox": [
+        90,
+        174,
+        214,
+        214
+      ],
+      "geometry": "rect",
+      "alt": "Captain.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "8ea42f3c-16ac-49e2-9f56-bcaff26a12fd",
+        "contentType": "image/png",
+        "byteLength": 1740606
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4ri9kfu",
+      "id": "9",
+      "name": "crew-name-0",
+      "bbox": [
+        88,
+        414,
+        218,
+        48
+      ],
+      "geometry": "rect",
+      "text": "HELENA",
+      "textPreview": "HELENA",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELENA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELENA",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELENA",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/poza10n6",
+      "id": "10",
+      "name": "crew-state-0",
+      "bbox": [
+        88,
+        470,
+        218,
+        22
+      ],
+      "geometry": "rect",
+      "text": "USE",
+      "textPreview": "USE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "USE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "USE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "USE",
+              "fontSize": 12,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/on6tsv6l",
+      "id": "11",
+      "name": "crew-bg-1",
+      "bbox": [
+        356,
+        156,
+        250,
+        354
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#16253C",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/c7a9wnut",
+      "id": "12",
+      "bbox": [
+        374,
+        174,
+        214,
+        214
+      ],
+      "geometry": "rect",
+      "alt": "Biologist.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "600a8276-23e5-44bd-b346-897cefa1e2c8",
+        "contentType": "image/png",
+        "byteLength": 2263764
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21obqlof",
+      "id": "13",
+      "name": "crew-name-1",
+      "bbox": [
+        372,
+        414,
+        218,
+        48
+      ],
+      "geometry": "rect",
+      "text": "SARAH",
+      "textPreview": "SARAH",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SARAH"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SARAH",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SARAH",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsza50n2",
+      "id": "14",
+      "name": "crew-state-1",
+      "bbox": [
+        372,
+        470,
+        218,
+        22
+      ],
+      "geometry": "rect",
+      "text": "USE",
+      "textPreview": "USE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "USE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "USE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "USE",
+              "fontSize": 12,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crqtwf6h",
+      "id": "15",
+      "name": "crew-bg-2",
+      "bbox": [
+        640,
+        156,
+        250,
+        354
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#16253C",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0but07u5",
+      "id": "16",
+      "bbox": [
+        658,
+        174,
+        214,
+        214
+      ],
+      "geometry": "rect",
+      "alt": "Engineer_New.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "b27cc184-e3ce-4f48-a8f8-7bb1faa3415b",
+        "contentType": "image/png",
+        "byteLength": 1936152
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap8bu5or",
+      "id": "17",
+      "name": "crew-name-2",
+      "bbox": [
+        656,
+        414,
+        218,
+        48
+      ],
+      "geometry": "rect",
+      "text": "ALISTAIR — CURRENT",
+      "textPreview": "ALISTAIR — CURRENT",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ALISTAIR — CURRENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ALISTAIR — CURRENT",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ALISTAIR — CURRENT",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwju9kne",
+      "id": "18",
+      "name": "crew-state-2",
+      "bbox": [
+        656,
+        470,
+        218,
+        22
+      ],
+      "geometry": "rect",
+      "text": "USE",
+      "textPreview": "USE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "USE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "USE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "USE",
+              "fontSize": 12,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvat0f6t",
+      "id": "19",
+      "name": "crew-bg-3",
+      "bbox": [
+        924,
+        156,
+        250,
+        354
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#16253C",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/j258j2to",
+      "id": "20",
+      "bbox": [
+        942,
+        174,
+        214,
+        214
+      ],
+      "geometry": "rect",
+      "alt": "Engineer_OG.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "b61a1d2a-d0b3-4aa1-ba96-d9bd03edc2ef",
+        "contentType": "image/png",
+        "byteLength": 2239031
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cbmlszm",
+      "id": "21",
+      "name": "crew-name-3",
+      "bbox": [
+        940,
+        414,
+        218,
+        48
+      ],
+      "geometry": "rect",
+      "text": "ALISTAIR — LEGACY",
+      "textPreview": "ALISTAIR — LEGACY",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F1DDD4",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ALISTAIR — LEGACY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ALISTAIR — LEGACY",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F1DDD4",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ALISTAIR — LEGACY",
+              "fontSize": 15,
+              "color": "#F1DDD4",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i903qd0v",
+      "id": "22",
+      "name": "crew-state-3",
+      "bbox": [
+        940,
+        470,
+        218,
+        22
+      ],
+      "geometry": "rect",
+      "text": "ARCHIVE",
+      "textPreview": "ARCHIVE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ARCHIVE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ARCHIVE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ARCHIVE",
+              "fontSize": 12,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ja94jihg",
+      "id": "23",
+      "name": "label-Standardize-72-546",
+      "bbox": [
+        72,
+        546,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "STANDARDIZE",
+      "textPreview": "STANDARDIZE",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STANDARDIZE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STANDARDIZE",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STANDARDIZE",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sf25wnid",
+      "id": "24",
+      "name": "crew-rule",
+      "bbox": [
+        250,
+        542,
+        900,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Use one illustration style, one crop ratio, one data order and one date format across the active crew set.",
+      "textPreview": "Use one illustration style, one crop ratio, one data order and one date format across the active crew set.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use one illustration style, one crop ratio, one data order and one date format across the active crew set."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use one illustration style, one crop ratio, one data order and one date format across the active crew set.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use one illustration style, one crop ratio, one data order and one date format across the active crew set.",
+              "fontSize": 20,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1361 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/47nppn",
+    "id": "47nppn",
+    "slide": 3,
+    "layoutId": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwbipwnq",
+      "id": "1",
+      "name": "top-rail",
+      "bbox": [
+        0,
+        0,
+        1280,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#A84420",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atkze14f",
+      "id": "2",
+      "name": "section",
+      "bbox": [
+        64,
+        34,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FOUNDATION",
+      "textPreview": "FOUNDATION",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FOUNDATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FOUNDATION",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FOUNDATION",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vutgnm50",
+      "id": "3",
+      "name": "title",
+      "bbox": [
+        64,
+        64,
+        1140,
+        62
+      ],
+      "geometry": "rect",
+      "text": "A clear hierarchy keeps the fictional world readable",
+      "textPreview": "A clear hierarchy keeps the fictional world readable",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A clear hierarchy keeps the fictional world readable"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A clear hierarchy keeps the fictional world readable",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A clear hierarchy keeps the fictional world readable",
+              "fontSize": 35,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8r2hcrm9",
+      "id": "4",
+      "name": "footer-line",
+      "bbox": [
+        64,
+        678,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E5F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9sbylwnu",
+      "id": "5",
+      "name": "footer",
+      "bbox": [
+        64,
+        688,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "textPreview": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#8B98A8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#8B98A8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+              "fontSize": 10,
+              "color": "#8B98A8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0zah43",
+      "id": "6",
+      "name": "page",
+      "bbox": [
+        1130,
+        686,
+        86,
+        18
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 11,
+              "color": "#A84420",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqtgjm5o",
+      "id": "7",
+      "name": "arch-bg-0",
+      "bbox": [
+        82,
+        160,
+        226,
+        408
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F3F5F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d43y1gri",
+      "id": "8",
+      "bbox": [
+        118,
+        188,
+        154,
+        154
+      ],
+      "geometry": "rect",
+      "alt": "StationAuroraPatch.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "638c3465-c507-4179-a695-83612db146f5",
+        "contentType": "image/png",
+        "byteLength": 15265
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovixgny",
+      "id": "9",
+      "name": "arch-role-0",
+      "bbox": [
+        100,
+        360,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PRIMARY MARK",
+      "textPreview": "PRIMARY MARK",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRIMARY MARK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRIMARY MARK",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRIMARY MARK",
+              "fontSize": 11,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ojyt0zm",
+      "id": "10",
+      "name": "arch-name-0",
+      "bbox": [
+        100,
+        392,
+        190,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Station Aurora",
+      "textPreview": "Station Aurora",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Station Aurora"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Station Aurora",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Station Aurora",
+              "fontSize": 19,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nahkvi1",
+      "id": "11",
+      "name": "arch-use-0",
+      "bbox": [
+        104,
+        466,
+        182,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Adventure title, crew assets, station documents",
+      "textPreview": "Adventure title, crew assets, station documents",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Adventure title, crew"
+          },
+          {
+            "index": 2,
+            "text": "assets, station"
+          },
+          {
+            "index": 3,
+            "text": "documents"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Adventure title, crew assets, station documents",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#202A3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Adventure title, crew assets, station documents",
+              "fontSize": 16,
+              "color": "#202A3A",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm1grahg",
+      "id": "12",
+      "name": "arch-bg-1",
+      "bbox": [
+        378,
+        160,
+        226,
+        408
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F3F5F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/10rq5sbi",
+      "id": "13",
+      "bbox": [
+        414,
+        188,
+        154,
+        154
+      ],
+      "geometry": "rect",
+      "alt": "MAPLE_Logo_TRansparent.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "807bab51-138a-4933-9a25-13213b91d0f6",
+        "contentType": "image/png",
+        "byteLength": 200815
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0zyp0za",
+      "id": "14",
+      "name": "arch-role-1",
+      "bbox": [
+        396,
+        360,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PARENT AGENCY",
+      "textPreview": "PARENT AGENCY",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PARENT AGENCY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PARENT AGENCY",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PARENT AGENCY",
+              "fontSize": 11,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szqxgvip",
+      "id": "15",
+      "name": "arch-name-1",
+      "bbox": [
+        396,
+        392,
+        190,
+        54
+      ],
+      "geometry": "rect",
+      "text": "MAPLE",
+      "textPreview": "MAPLE",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MAPLE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MAPLE",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MAPLE",
+              "fontSize": 19,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryhgnqh4",
+      "id": "16",
+      "name": "arch-use-1",
+      "bbox": [
+        400,
+        466,
+        182,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Official briefings, IDs and mission-control material",
+      "textPreview": "Official briefings, IDs and mission-control material",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Official briefings, IDs and"
+          },
+          {
+            "index": 2,
+            "text": "mission-control material"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Official briefings, IDs and mission-control material",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#202A3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Official briefings, IDs and mission-control material",
+              "fontSize": 16,
+              "color": "#202A3A",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qx8fel0j",
+      "id": "17",
+      "name": "arch-bg-2",
+      "bbox": [
+        674,
+        160,
+        226,
+        408
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F3F5F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/apkrixsz",
+      "id": "18",
+      "bbox": [
+        710,
+        188,
+        154,
+        154
+      ],
+      "geometry": "rect",
+      "alt": "HAROLD.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "b37b1b02-223d-4ce2-81ca-70d29f7d90aa",
+        "contentType": "image/png",
+        "byteLength": 1776412
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvuhsfi9",
+      "id": "19",
+      "name": "arch-role-2",
+      "bbox": [
+        692,
+        360,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SYSTEM MARK",
+      "textPreview": "SYSTEM MARK",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SYSTEM MARK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SYSTEM MARK",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SYSTEM MARK",
+              "fontSize": 11,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbm94nah",
+      "id": "20",
+      "name": "arch-name-2",
+      "bbox": [
+        692,
+        392,
+        190,
+        54
+      ],
+      "geometry": "rect",
+      "text": "H.A.R.O.L.D.",
+      "textPreview": "H.A.R.O.L.D.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "H.A.R.O.L.D."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "H.A.R.O.L.D.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "H.A.R.O.L.D.",
+              "fontSize": 19,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcvadsb2",
+      "id": "21",
+      "name": "arch-use-2",
+      "bbox": [
+        696,
+        466,
+        182,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Terminal, diagnostics and automated instructions",
+      "textPreview": "Terminal, diagnostics and automated instructions",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Terminal, diagnostics"
+          },
+          {
+            "index": 2,
+            "text": "and automated"
+          },
+          {
+            "index": 3,
+            "text": "instructions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Terminal, diagnostics and automated instructions",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#202A3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Terminal, diagnostics and automated instructions",
+              "fontSize": 16,
+              "color": "#202A3A",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9krixsb",
+      "id": "22",
+      "name": "arch-bg-3",
+      "bbox": [
+        970,
+        160,
+        226,
+        408
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F1DDD4",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8vmp87qx",
+      "id": "23",
+      "bbox": [
+        1006,
+        188,
+        154,
+        154
+      ],
+      "geometry": "rect",
+      "alt": "EVIL.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "23675df1-7f10-4fc6-a709-2244eca59dce",
+        "contentType": "image/png",
+        "byteLength": 1685911
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8729gnal",
+      "id": "24",
+      "name": "arch-role-3",
+      "bbox": [
+        988,
+        360,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "EVIDENCE MARKS",
+      "textPreview": "EVIDENCE MARKS",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EVIDENCE MARKS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EVIDENCE MARKS",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EVIDENCE MARKS",
+              "fontSize": 11,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98ba9sbq",
+      "id": "25",
+      "name": "arch-name-3",
+      "bbox": [
+        988,
+        392,
+        190,
+        54
+      ],
+      "geometry": "rect",
+      "text": "In-world entities",
+      "textPreview": "In-world entities",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "In-world entities"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "In-world entities",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "In-world entities",
+              "fontSize": 19,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5kredsf",
+      "id": "26",
+      "name": "arch-use-3",
+      "bbox": [
+        992,
+        466,
+        182,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Bank, betting, retail and antagonist documents",
+      "textPreview": "Bank, betting, retail and antagonist documents",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Bank, betting, retail and"
+          },
+          {
+            "index": 2,
+            "text": "antagonist documents"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Bank, betting, retail and antagonist documents",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#202A3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Bank, betting, retail and antagonist documents",
+              "fontSize": 16,
+              "color": "#202A3A",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76ts7it0",
+      "id": "27",
+      "name": "hierarchy-note",
+      "bbox": [
+        96,
+        604,
+        1088,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.",
+      "textPreview": "Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.",
+              "fontSize": 18,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

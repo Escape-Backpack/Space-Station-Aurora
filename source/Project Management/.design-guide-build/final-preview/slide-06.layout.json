@@ -1,0 +1,1013 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/67h34u",
+    "id": "67h34u",
+    "slide": 6,
+    "layoutId": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8bu18za",
+      "id": "1",
+      "name": "top-rail",
+      "bbox": [
+        0,
+        0,
+        1280,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#A84420",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l0v6t0j",
+      "id": "2",
+      "name": "section",
+      "bbox": [
+        64,
+        34,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "MARKS",
+      "textPreview": "MARKS",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MARKS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MARKS",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MARKS",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m9czyh4",
+      "id": "3",
+      "name": "title",
+      "bbox": [
+        64,
+        64,
+        1140,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Station Aurora owns the page",
+      "textPreview": "Station Aurora owns the page",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Station Aurora owns the page"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Station Aurora owns the page",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Station Aurora owns the page",
+              "fontSize": 35,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gb2dcni1",
+      "id": "4",
+      "name": "footer-line",
+      "bbox": [
+        64,
+        678,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E5F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcbu5sz6",
+      "id": "5",
+      "name": "footer",
+      "bbox": [
+        64,
+        688,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "textPreview": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#8B98A8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#8B98A8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+              "fontSize": 10,
+              "color": "#8B98A8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9kvad0v",
+      "id": "6",
+      "name": "page",
+      "bbox": [
+        1130,
+        686,
+        86,
+        18
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 11,
+              "color": "#A84420",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fatc3ihg",
+      "id": "7",
+      "name": "logo-field",
+      "bbox": [
+        72,
+        158,
+        494,
+        420
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#16253C",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hw7yhcf6",
+      "id": "8",
+      "bbox": [
+        168,
+        206,
+        300,
+        300
+      ],
+      "geometry": "rect",
+      "alt": "StationAuroraPatch.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "b5c5ca96-2462-419e-8b91-21242c332d44",
+        "contentType": "image/png",
+        "byteLength": 15265
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgvu9szi",
+      "id": "9",
+      "name": "logo-caption",
+      "bbox": [
+        142,
+        526,
+        354,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PRIMARY PROJECT MARK",
+      "textPreview": "PRIMARY PROJECT MARK",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRIMARY PROJECT MARK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRIMARY PROJECT MARK",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRIMARY PROJECT MARK",
+              "fontSize": 13,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cnq5sf2",
+      "id": "10",
+      "name": "label-Use-622-168",
+      "bbox": [
+        622,
+        168,
+        130,
+        24
+      ],
+      "geometry": "rect",
+      "text": "USE",
+      "textPreview": "USE",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "USE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "USE",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "USE",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obe9wneh",
+      "id": "11",
+      "name": "bullet-622-204",
+      "bbox": [
+        622,
+        204,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• One clear primary mark per asset",
+      "textPreview": "• One clear primary mark per asset",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• One clear primary mark per asset"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• One clear primary mark per asset",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• One clear primary mark per asset",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na5832xw",
+      "id": "12",
+      "name": "bullet-622-254",
+      "bbox": [
+        622,
+        254,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• Keep generous open space around the patch",
+      "textPreview": "• Keep generous open space around the patch",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Keep generous open space around the patch"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Keep generous open space around the patch",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Keep generous open space around the patch",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpwruxwb",
+      "id": "13",
+      "name": "bullet-622-304",
+      "bbox": [
+        622,
+        304,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• Use MAPLE as issuer or parent agency",
+      "textPreview": "• Use MAPLE as issuer or parent agency",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Use MAPLE as issuer or parent agency"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Use MAPLE as issuer or parent agency",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Use MAPLE as issuer or parent agency",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xg7q9cfy",
+      "id": "14",
+      "name": "label-Avoid-622-390",
+      "bbox": [
+        622,
+        390,
+        130,
+        24
+      ],
+      "geometry": "rect",
+      "text": "AVOID",
+      "textPreview": "AVOID",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AVOID"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AVOID",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AVOID",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfy907ed",
+      "id": "15",
+      "name": "bullet-622-426",
+      "bbox": [
+        622,
+        426,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands",
+      "textPreview": "• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/be5872xs",
+      "id": "16",
+      "name": "bullet-622-482",
+      "bbox": [
+        622,
+        482,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• Placing the patch on busy imagery without contrast",
+      "textPreview": "• Placing the patch on busy imagery without contrast",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Placing the patch on busy imagery without contrast"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Placing the patch on busy imagery without contrast",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Placing the patch on busy imagery without contrast",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adwryxwn",
+      "id": "17",
+      "name": "bullet-622-538",
+      "bbox": [
+        622,
+        538,
+        520,
+        44
+      ],
+      "geometry": "rect",
+      "text": "• Enlarging the current 102 px patch for large-format print",
+      "textPreview": "• Enlarging the current 102 px patch for large-format print",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#202A3A",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Enlarging the current 102 px patch for large-format print"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Enlarging the current 102 px patch for large-format print",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#202A3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Enlarging the current 102 px patch for large-format print",
+              "fontSize": 18,
+              "color": "#202A3A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dk3qx8fu",
+      "id": "18",
+      "name": "logo-gap",
+      "bbox": [
+        72,
+        610,
+        1092,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Production gap: create a vector or high-resolution master of the Station Aurora patch.",
+      "textPreview": "Production gap: create a vector or high-resolution master of the Station Aurora patch.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Production gap: create a vector or high-resolution master of the Station Aurora patch."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Production gap: create a vector or high-resolution master of the Station Aurora patch.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Production gap: create a vector or high-resolution master of the Station Aurora patch.",
+              "fontSize": 18,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

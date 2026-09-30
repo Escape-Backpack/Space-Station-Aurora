@@ -1,0 +1,538 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xu01mm",
+    "id": "xu01mm",
+    "slide": 12,
+    "layoutId": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "d2832093-a8c0-4ea9-8a59-36ff2b87d5d4",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0c92bc77-740f-4f80-ada0-b9fb7347fd10",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bupovu5",
+      "id": "1",
+      "name": "top-rail",
+      "bbox": [
+        0,
+        0,
+        1280,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#A84420",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nalovqtk",
+      "id": "2",
+      "name": "section",
+      "bbox": [
+        64,
+        34,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PORTFOLIO",
+      "textPreview": "PORTFOLIO",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PORTFOLIO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PORTFOLIO",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#A84420",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PORTFOLIO",
+              "fontSize": 13,
+              "color": "#A84420",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9c7mlcf",
+      "id": "3",
+      "name": "title",
+      "bbox": [
+        64,
+        64,
+        1140,
+        62
+      ],
+      "geometry": "rect",
+      "text": "The strongest imagery already shares one world",
+      "textPreview": "The strongest imagery already shares one world",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The strongest imagery already shares one world"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The strongest imagery already shares one world",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The strongest imagery already shares one world",
+              "fontSize": 35,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l836tgbu",
+      "id": "4",
+      "name": "footer-line",
+      "bbox": [
+        64,
+        678,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8E5F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/07upkbu9",
+      "id": "5",
+      "name": "footer",
+      "bbox": [
+        64,
+        688,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "textPreview": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#8B98A8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#8B98A8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPACE STATION AURORA  |  WORKING VISUAL SYSTEM",
+              "fontSize": 10,
+              "color": "#8B98A8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61orqto",
+      "id": "6",
+      "name": "page",
+      "bbox": [
+        1130,
+        686,
+        86,
+        18
+      ],
+      "geometry": "rect",
+      "text": "12",
+      "textPreview": "12",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#A84420",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#A84420",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12",
+              "fontSize": 11,
+              "color": "#A84420",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/bixovyhs",
+      "id": "7",
+      "bbox": [
+        72,
+        156,
+        534,
+        438
+      ],
+      "geometry": "rect",
+      "alt": "Banner_Space_Station_Aurora.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "2c84e9cc-7517-42f0-9514-a8c5b21025ad",
+        "contentType": "image/png",
+        "byteLength": 2267148
+      }
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/knqpsny9",
+      "id": "8",
+      "bbox": [
+        630,
+        156,
+        270,
+        208
+      ],
+      "geometry": "rect",
+      "alt": "BluePrint_Example.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "287c5e2c-3ebd-4d56-b36a-14ce608c58ce",
+        "contentType": "image/png",
+        "byteLength": 2881518
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lozq1sfu",
+      "id": "9",
+      "bbox": [
+        924,
+        156,
+        270,
+        208
+      ],
+      "geometry": "rect",
+      "alt": "Captain.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "5b7926f3-ff14-4877-98f9-f59f354c6281",
+        "contentType": "image/png",
+        "byteLength": 1740606
+      }
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/5k3i9kb6",
+      "id": "10",
+      "bbox": [
+        630,
+        386,
+        270,
+        208
+      ],
+      "geometry": "rect",
+      "alt": "Biologist.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "71afe85d-350d-441b-a497-d6d905e527dc",
+        "contentType": "image/png",
+        "byteLength": 2263764
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4zu10ful",
+      "id": "11",
+      "bbox": [
+        924,
+        386,
+        270,
+        208
+      ],
+      "geometry": "rect",
+      "alt": "Engineer_New.png from the Space Station Aurora project assets",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "30d89504-e10f-4a06-8256-3475894f57b0",
+        "contentType": "image/png",
+        "byteLength": 1936152
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9cbmx",
+      "id": "12",
+      "name": "portfolio-caption",
+      "bbox": [
+        72,
+        612,
+        1122,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Environment • technical diagram • crew illustration",
+      "textPreview": "Environment • technical diagram • crew illustration",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#16253C",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Environment • technical diagram • crew illustration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Environment • technical diagram • crew illustration",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#16253C",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Environment • technical diagram • crew illustration",
+              "fontSize": 15,
+              "color": "#16253C",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

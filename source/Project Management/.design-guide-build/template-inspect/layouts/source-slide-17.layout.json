@@ -1,0 +1,1498 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/14bup87q",
+    "id": "14bup87q",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Aptos Display"
+      },
+      "minorFont": {
+        "latinTypeface": "Aptos"
+      }
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Orbitron ExtraBold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/3",
+          "id": "3",
+          "name": "Content Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "2026-05-03",
+          "textPreview": "2026-05-03",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026-05-03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026-05-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "2026-05-03",
+          "textPreview": "2026-05-03",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026-05-03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026-05-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1c7e50ni",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        88,
+        38.33,
+        1104,
+        139.17
+      ],
+      "text": "Space Station Layout",
+      "textPreview": "Space Station Layout",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 58.67,
+        "typeface": "Aptos Display",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Space Station Layout"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Space Station Layout",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Space Station Layout",
+              "typeface": "Orbitron ExtraBold"
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/xsjudwv2",
+      "id": "3",
+      "name": "Content Placeholder 14",
+      "bbox": [
+        57.4,
+        158.79,
+        569.6,
+        428.26
+      ],
+      "text": "Module | Icon | Description\nCopula | Centre of station, observation\nStorage | Storage of food/equipment\nEngineering | Power, environmental controls\nPower Module | Nuclear Power plant\nCrew quarter | Sleeping quarters\nKitchen | Meal Prep + Food storage\nHydroponics | Growing food + nature area\nMed Bay | Medical exams + emergency surgeries\nBridge | Control module\nScience Lab | For science experiments",
+      "textPreview": "Module | Icon | Description | Copula | Centre of station, observation | Storage | Storage of food/equipment | Engineering | Power, enviro...",
+      "rows": 11,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            57.4,
+            158.79,
+            135.52,
+            38.93
+          ],
+          "text": "Module",
+          "textPreview": "Module",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Module",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Module",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            192.92,
+            158.79,
+            63.63,
+            38.93
+          ],
+          "text": "Icon",
+          "textPreview": "Icon",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Icon",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Icon",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            256.55,
+            158.79,
+            370.45,
+            38.93
+          ],
+          "text": "Description",
+          "textPreview": "Description",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Description",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Description",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            57.4,
+            197.72,
+            135.52,
+            38.93
+          ],
+          "text": "Copula",
+          "textPreview": "Copula",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Copula",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Copula",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            192.92,
+            197.72,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            256.55,
+            197.72,
+            370.45,
+            38.93
+          ],
+          "text": "Centre of station, observation",
+          "textPreview": "Centre of station, observation",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Centre of station, observation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Centre of station, observation",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            57.4,
+            236.65,
+            135.52,
+            38.93
+          ],
+          "text": "Storage",
+          "textPreview": "Storage",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Storage",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Storage",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            192.92,
+            236.65,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            256.55,
+            236.65,
+            370.45,
+            38.93
+          ],
+          "text": "Storage of food/equipment",
+          "textPreview": "Storage of food/equipment",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Storage of food/equipment",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Storage of food/equipment",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            57.4,
+            275.59,
+            135.52,
+            38.93
+          ],
+          "text": "Engineering",
+          "textPreview": "Engineering",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Engineering",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Engineering",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            192.92,
+            275.59,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            256.55,
+            275.59,
+            370.45,
+            38.93
+          ],
+          "text": "Power, environmental controls",
+          "textPreview": "Power, environmental controls",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Power, environmental controls",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Power, environmental controls",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            57.4,
+            314.52,
+            135.52,
+            38.93
+          ],
+          "text": "Power Module",
+          "textPreview": "Power Module",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Power Module",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Power Module",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            192.92,
+            314.52,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            256.55,
+            314.52,
+            370.45,
+            38.93
+          ],
+          "text": "Nuclear Power plant",
+          "textPreview": "Nuclear Power plant",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Nuclear Power plant",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Nuclear Power plant",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            57.4,
+            353.45,
+            135.52,
+            38.93
+          ],
+          "text": "Crew quarter",
+          "textPreview": "Crew quarter",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Crew quarter",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Crew quarter",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            192.92,
+            353.45,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            256.55,
+            353.45,
+            370.45,
+            38.93
+          ],
+          "text": "Sleeping quarters",
+          "textPreview": "Sleeping quarters",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sleeping quarters",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sleeping quarters",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            57.4,
+            392.39,
+            135.52,
+            38.93
+          ],
+          "text": "Kitchen",
+          "textPreview": "Kitchen",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Kitchen",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Kitchen",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            192.92,
+            392.39,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            256.55,
+            392.39,
+            370.45,
+            38.93
+          ],
+          "text": "Meal Prep + Food storage",
+          "textPreview": "Meal Prep + Food storage",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Meal Prep + Food storage",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Meal Prep + Food storage",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            57.4,
+            431.32,
+            135.52,
+            38.93
+          ],
+          "text": "Hydroponics",
+          "textPreview": "Hydroponics",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hydroponics",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hydroponics",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            192.92,
+            431.32,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            256.55,
+            431.32,
+            370.45,
+            38.93
+          ],
+          "text": "Growing food + nature area",
+          "textPreview": "Growing food + nature area",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Growing food + nature area",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Growing food + nature area",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            57.4,
+            470.25,
+            135.52,
+            38.93
+          ],
+          "text": "Med Bay",
+          "textPreview": "Med Bay",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Med Bay",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Med Bay",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            192.92,
+            470.25,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 27,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            256.55,
+            470.25,
+            370.45,
+            38.93
+          ],
+          "text": "Medical exams + emergency surgeries",
+          "textPreview": "Medical exams + emergency surgeries",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Medical exams + emergency surgeries",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Medical exams + emergency surgeries",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            57.4,
+            509.19,
+            135.52,
+            38.93
+          ],
+          "text": "Bridge",
+          "textPreview": "Bridge",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Bridge",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Bridge",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            192.92,
+            509.19,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 30,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            256.55,
+            509.19,
+            370.45,
+            38.93
+          ],
+          "text": "Control module",
+          "textPreview": "Control module",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Control module",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Control module",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            57.4,
+            548.12,
+            135.52,
+            38.93
+          ],
+          "text": "Science Lab",
+          "textPreview": "Science Lab",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Science Lab",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Science Lab",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            192.92,
+            548.12,
+            63.63,
+            38.93
+          ]
+        },
+        {
+          "index": 33,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            256.55,
+            548.12,
+            370.45,
+            38.93
+          ],
+          "text": "For science experiments",
+          "textPreview": "For science experiments",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "For science experiments",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "For science experiments",
+                  "fontSize": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yh4n6tor",
+      "id": "4",
+      "name": "Graphic 20",
+      "bbox": [
+        914.65,
+        217,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image62.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 545
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image62.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 545
+      }
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zid4zypc",
+      "id": "5",
+      "name": "Graphic 24",
+      "bbox": [
+        914.65,
+        291.65,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image42.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 858
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image42.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 858
+      }
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0jm5836x",
+      "id": "6",
+      "name": "Graphic 26",
+      "bbox": [
+        848.24,
+        149.15,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image34.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2745
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image34.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2745
+      }
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l4vm187i",
+      "id": "7",
+      "name": "Graphic 28",
+      "bbox": [
+        1113.78,
+        214.85,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image45.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2631
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image45.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2631
+      }
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qdkn2t8v",
+      "id": "8",
+      "name": "Graphic 30",
+      "bbox": [
+        1083.21,
+        132.37,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 924
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 924
+      }
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/bet4vyp0",
+      "id": "9",
+      "name": "Graphic 32",
+      "bbox": [
+        974.42,
+        140.56,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image49.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 629
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image49.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 629
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/nyt03q18",
+      "id": "10",
+      "name": "Graphic 34",
+      "bbox": [
+        1073.99,
+        271.54,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image53.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2999
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image53.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 2999
+      }
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/mxkzal0n",
+      "id": "11",
+      "name": "Graphic 36",
+      "bbox": [
+        1170.05,
+        136.83,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image54.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1770
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image54.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1770
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/90bi5gze",
+      "id": "12",
+      "name": "Graphic 44",
+      "bbox": [
+        985.21,
+        291.65,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image63.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 588
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image63.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 588
+      }
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/oz2hcvit",
+      "id": "13",
+      "name": "Graphic 48",
+      "bbox": [
+        1073.99,
+        360,
+        56.69,
+        56.69
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image64.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 10314
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image64.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 10314
+      }
+    }
+  ],
+  "composeRuns": []
+}

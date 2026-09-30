@@ -1,0 +1,25 @@
+Communication job: by the end, the project owner and future collaborators should be able to create new Aurora assets that look intentional and recognizably part of the same world.
+
+Visual route: custom Aurora design system distilled from current project assets. Support_Design.pptx is source material, not a slide template; the output consolidates rather than duplicates its exploratory layouts.
+
+Primary local sources:
+- Support_Design.pptx (21 slides inspected)
+- Images/StationAuroraPatch.png
+- Images/MAPLE_Logo_TRansparent.png
+- Images/HAROLD.png
+- Images/EVIL.png
+- Images/Bank_Logo.png and Bank_Logo2.png
+- Images/FishAndNuts.jpg
+- Images/Betting_Logos.jpg
+- Images/Banner_Space_Station_Aurora.png
+- Images/BluePrint_Example.png
+- Images/Captain.png, Biologist.png, Engineer_New.png, Engineer_OG.png
+
+Observed standards:
+- Core colours: #16253C and #A84420
+- Printed/display type: Orbitron family
+- Handwriting: Dreaming Outloud Pro
+- Receipt/code type: Aptos Mono
+- Corporate EVIL experiments: Times New Roman and DownCity; not yet resolved
+
+No external images or researched claims are used.

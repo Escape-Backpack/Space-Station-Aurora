@@ -1,0 +1,130 @@
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"Space Station Aurora","textShapes":2}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"textChars":301,"textLines":1}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Story Details","textShapes":2}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"textChars":806,"textLines":9}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Puzzle/clues/story Ideas","textShapes":2}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"textChars":973,"textLines":9}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Puzzle/clues/story Ideas","textShapes":2}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"textChars":644,"textLines":7}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Puzzle/clues/story Ideas","textShapes":2}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"textChars":493,"textLines":7}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Rectangle 9","bbox":[752.84,402.42,313.26,235.98]}
+{"kind":"image","id":"im/6p4fyl47","slide":5,"name":"Picture 8","bbox":[786.43,397.37,246.08,246.08]}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Receipts","textShapes":11}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Rectangle 2","bbox":[117.82,163.33,302.36,491.34]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"textChars":66,"textLines":1}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"textChars":82,"textLines":6}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"textChars":20,"textLines":5}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"textChars":31,"textLines":4}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"textChars":20,"textLines":4}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/lg76d8zy","slide":6,"textChars":31,"textLines":1}
+{"kind":"image","id":"im/90zqp0r6","slide":6,"name":"Picture 3","bbox":[207,169.33,124,119.91]}
+{"kind":"image","id":"im/ofq9wfal","slide":6,"name":"Picture 27","bbox":[674.63,48.93,302.75,491.56]}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Gambling emails","textShapes":3}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"textChars":474,"textLines":8}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"textChars":65,"textLines":3}
+{"kind":"image","id":"im/5s3mtk7e","slide":7,"name":"Picture 3","bbox":[88,491.24,107,104.86]}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Electronic Puzzle","textShapes":1}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"textChars":17,"textLines":1}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Logos/names","textShapes":7}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"textChars":32,"textLines":2}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"textChars":44,"textLines":2}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"textChars":62,"textLines":1}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"textChars":26,"textLines":2}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"textChars":23,"textLines":2}
+{"kind":"image","id":"im/yho7mlc7","slide":9,"name":"Picture 9","bbox":[11.35,163.49,147.97,147.97]}
+{"kind":"image","id":"im/md47elwz","slide":9,"name":"Picture 8","bbox":[35.45,427.37,100.2,100.2]}
+{"kind":"image","id":"im/ned87qxk","slide":9,"name":"Picture 4","bbox":[37.9,311.46,100.2,90.39]}
+{"kind":"image","id":"im/ofmpgve5","slide":9,"name":"Picture 10","bbox":[651,173.45,124,119.91]}
+{"kind":"image","id":"im/9gvq9gfq","slide":9,"name":"Picture 15","bbox":[651,299.24,124,121.52]}
+{"kind":"image","id":"im/aho72lwb","slide":9,"name":"Picture 20","bbox":[658.36,430.64,109.28,96.94]}
+{"kind":"image","id":"im/bix8bqxw","slide":9,"name":"Picture 2","geometry":"ellipse","bbox":[37.9,565.99,102.05,102.05]}
+{"kind":"image","id":"im/wj6p4ve1","slide":9,"name":"Picture 14","bbox":[662.45,558.11,101.1,102.05]}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Design elements","textShapes":4}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"textChars":275,"textLines":7}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"textChars":7,"textLines":1}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Crew","textShapes":1}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"textChars":4,"textLines":1}
+{"kind":"table","id":"tb/tobid8vq","slide":11,"name":"Content Placeholder 5","rows":11,"cols":5,"preview":"Role | Name | Hometown | Date of Birth | Note","bbox":[37,191.67,1213,428.27]}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Crew - New","textShapes":8}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"Rectangle: Rounded Corners 8","bbox":[2,217.72,377.95,264.57]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"Rectangle 22","bbox":[58.69,216.25,264.57,262.7]}
+{"kind":"textbox","id":"sh/ml8nq1c7","slide":12,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/7mh4j6dc","slide":12,"textChars":26,"textLines":3}
+{"kind":"textbox","id":"sh/l8b2dsje","slide":12,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/8bm1o725","slide":12,"name":"Straight Connector 75","bbox":[190.95,369.71,0,43.48]}
+{"kind":"shape","id":"sh/tcv2hcjq","slide":12,"name":"Straight Connector 76","bbox":[70.07,363.56,244.53,0]}
+{"kind":"shape","id":"sh/rmxcfyxg","slide":12,"name":"Straight Connector 79","bbox":[70.88,421.68,244.53,0]}
+{"kind":"textbox","id":"sh/tozuh8fm","slide":12,"textChars":16,"textLines":3}
+{"kind":"shape","id":"sh/grqtc3ed","slide":12,"name":"Straight Connector 86","bbox":[180.92,314.23,132.13,0]}
+{"kind":"shape","id":"sh/kz298ful","slide":12,"name":"Oval 89","bbox":[233.9,301.7,26.46,26.46]}
+{"kind":"shape","id":"sh/xwbqx0va","slide":12,"name":"Straight Connector 94","bbox":[190.95,429.27,0,43.48]}
+{"kind":"textbox","id":"sh/at0725cj","slide":12,"textChars":17,"textLines":3}
+{"kind":"textbox","id":"sh/wrm9gzut","slide":12,"textChars":23,"textLines":3}
+{"kind":"textbox","id":"sh/hsva94ve","slide":12,"textChars":26,"textLines":3}
+{"kind":"image","id":"im/jylsfid8","slide":12,"name":"Picture 50","bbox":[70.88,224.88,95.87,128.5]}
+{"kind":"image","id":"im/yxcr6dcn","slide":12,"name":"Picture 51","geometry":"ellipse","bbox":[70.05,483.55,50.82,50.82]}
+{"kind":"image","id":"im/l03ah8ve","slide":12,"name":"Picture 52","bbox":[229.73,164.74,74.89,75.59]}
+{"kind":"image","id":"im/kzu983ut","slide":12,"name":"Graphic 65","bbox":[195.98,379.37,30.24,30.24]}
+{"kind":"image","id":"im/bu1sbydc","slide":12,"name":"Graphic 67","bbox":[68.86,434.72,30.24,30.24]}
+{"kind":"image","id":"im/a9sr2twr","slide":12,"name":"Graphic 69","bbox":[66.26,377.77,30.24,30.24]}
+{"kind":"image","id":"im/xwjad8v2","slide":12,"name":"Graphic 71","bbox":[195.98,435.66,30.24,30.24]}
+{"kind":"image","id":"im/wva943ex","slide":12,"name":"Graphic 58","bbox":[238.1,304.78,18.9,18.9]}
+{"kind":"image","id":"im/n61s7ed0","slide":12,"name":"Picture 2","bbox":[200.83,324.2,88.36,27.36]}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Crew - New","textShapes":4}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Rectangle: Rounded Corners 5","bbox":[86.93,177.5,264.57,377.95]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"Freeform: Shape 14","bbox":[86.93,177.5,264.57,115.86]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/q18f65cr","slide":13,"name":"Straight Connector 21","bbox":[86.93,293.36,264.57,0]}
+{"kind":"textbox","id":"sh/oz6x4vul","slide":13,"textChars":13,"textLines":2}
+{"kind":"shape","id":"sh/y1wju94v","slide":13,"name":"Straight Connector 39","bbox":[165.76,354.95,113.39,0]}
+{"kind":"shape","id":"sh/z25kne5g","slide":13,"name":"Straight Connector 40","bbox":[165.76,452.07,113.39,0]}
+{"kind":"textbox","id":"sh/03e1wjm1","slide":13,"textChars":33,"textLines":3}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"Rectangle: Rounded Corners 8","bbox":[501,227.72,377.95,264.57]}
+{"kind":"shape","id":"sh/bmhgfatc","slide":13,"name":"Rectangle 22","bbox":[557.69,234.82,264.57,226.19]}
+{"kind":"shape","id":"sh/atgj2t43","slide":13,"name":"Rectangle: Rounded Corners 47","bbox":[401.01,28.59,477.98,640.67]}
+{"kind":"image","id":"im/0fu14v2h","slide":13,"name":"Picture 10","geometry":"ellipse","bbox":[104.7,193.86,81.92,81.92]}
+{"kind":"image","id":"im/i1ofyx0z","slide":13,"name":"Picture 42","bbox":[-256.34,214.71,804,435.63]}
+{"kind":"image","id":"im/j2xg72hk","slide":13,"name":"Picture 46","bbox":[371.2,0,537.6,720]}
+{"kind":"image","id":"im/kn6x07i5","slide":13,"name":"Picture 50","bbox":[501.93,89.07,477.98,640.67]}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Crew","textShapes":13}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"Rectangle: Rounded Corners 5","bbox":[86.93,177.5,264.57,377.95]}
+{"kind":"shape","id":"sh/ls7idofu","slide":14,"name":"Freeform: Shape 14","bbox":[86.93,177.5,264.57,115.86]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/fqdg3q98","slide":14,"name":"Straight Connector 21","bbox":[86.93,293.36,264.57,0]}
+{"kind":"textbox","id":"sh/pwvy90rq","slide":14,"textChars":13,"textLines":2}
+{"kind":"shape","id":"sh/4vmh0vq5","slide":14,"name":"Rectangle: Rounded Corners 24","bbox":[389.29,177.5,264.57,377.95]}
+{"kind":"shape","id":"sh/3udg7q9k","slide":14,"name":"Freeform: Shape 25","bbox":[389.29,177.5,264.57,115.86]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"textChars":19,"textLines":2}
+{"kind":"shape","id":"sh/cz6h4fq1","slide":14,"name":"Straight Connector 28","bbox":[389.29,293.36,264.57,0]}
+{"kind":"textbox","id":"sh/bup4rils","slide":14,"textChars":19,"textLines":2}
+{"kind":"shape","id":"sh/cvylkn2d","slide":14,"name":"Rectangle: Rounded Corners 31","bbox":[684.4,177.5,264.57,377.95]}
+{"kind":"shape","id":"sh/xw7mts3y","slide":14,"name":"Freeform: Shape 32","bbox":[684.2,177.5,264.57,115.86]}
+{"kind":"textbox","id":"sh/jyp4fil4","slide":14,"textChars":16,"textLines":2}
+{"kind":"shape","id":"sh/kzy5on2p","slide":14,"name":"Straight Connector 35","bbox":[684.2,293.36,264.57,0]}
+{"kind":"textbox","id":"sh/lkrmhsju","slide":14,"textChars":14,"textLines":2}
+{"kind":"shape","id":"sh/fi5432t4","slide":14,"name":"Straight Connector 39","bbox":[165.76,354.95,113.39,0]}
+{"kind":"shape","id":"sh/uhw3axcj","slide":14,"name":"Straight Connector 40","bbox":[165.76,452.07,113.39,0]}
+{"kind":"textbox","id":"sh/h4nm5sba","slide":14,"textChars":33,"textLines":3}
+{"kind":"textbox","id":"sh/25w3excv","slide":14,"textChars":35,"textLines":3}
+{"kind":"textbox","id":"sh/p87m9cb6","slide":14,"textChars":34,"textLines":3}
+{"kind":"shape","id":"sh/b2507exs","slide":14,"name":"Rectangle: Rounded Corners 12","bbox":[986.47,177.5,264.57,377.95]}
+{"kind":"notice","message":"Truncated: omitted 124 lines. Increase maxChars or narrow target."}

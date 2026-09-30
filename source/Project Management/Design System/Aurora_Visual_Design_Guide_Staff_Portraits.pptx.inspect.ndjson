@@ -1,0 +1,370 @@
+{"kind":"deck","id":"pr/k098l3","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"PROJECT CONTROL DOCUMENT","textShapes":4}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"cover-panel","bbox":[0,0,660,720]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"cover-accent","bbox":[64,72,124,8]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"eyebrow","text":"PROJECT CONTROL DOCUMENT","textPreview":"PROJECT CONTROL DOCUMENT","textChars":24,"textLines":1,"bbox":[64,104,480,30]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"cover-title","text":"AURORA\nVISUAL DESIGN\nGUIDE","textPreview":"AURORA | VISUAL DESIGN | GUIDE","textChars":26,"textLines":3,"bbox":[64,156,540,218]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"cover-subtitle","text":"A working system for documents, props, screens and promotional assets","textPreview":"A working system for documents, props, screens and promotional assets","textChars":69,"textLines":1,"bbox":[68,405,470,90]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"cover-status","text":"WORKING STANDARD  •  2026","textPreview":"WORKING STANDARD  •  2026","textChars":25,"textLines":1,"bbox":[68,626,430,26]}
+{"kind":"image","id":"im/6lgjadw3","slide":1,"name":"","bbox":[560,0,720,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"FOUNDATION","textShapes":12}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"section","text":"FOUNDATION","textPreview":"FOUNDATION","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"title","text":"The identity balances authority and danger","textPreview":"The identity balances authority and danger","textChars":42,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"page","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"label-Core impression-72-464","text":"CORE IMPRESSION","textPreview":"CORE IMPRESSION","textChars":15,"textLines":1,"bbox":[72,464,260,24]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"core-impression","text":"Canadian institutional\nretro-futurism under pressure","textPreview":"Canadian institutional | retro-futurism under pressure","textChars":52,"textLines":2,"bbox":[72,494,360,78]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"principle-0","bbox":[470,168,700,112]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"principle-head-0","text":"CREDIBLE","textPreview":"CREDIBLE","textChars":8,"textLines":1,"bbox":[500,188,190,30]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"principle-body-0","text":"Official enough to feel issued by a real station or agency.","textPreview":"Official enough to feel issued by a real station or agency.","textChars":59,"textLines":1,"bbox":[700,186,430,60]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"principle-1","bbox":[470,314,700,112]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"principle-head-1","text":"TACTILE","textPreview":"TACTILE","textChars":7,"textLines":1,"bbox":[500,334,190,30]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"principle-body-1","text":"Props should look handled, printed, scanned, stamped or repaired.","textPreview":"Props should look handled, printed, scanned, stamped or repaired.","textChars":65,"textLines":1,"bbox":[700,332,430,60]}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"principle-2","bbox":[470,460,700,112]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"principle-head-2","text":"URGENT","textPreview":"URGENT","textChars":6,"textLines":1,"bbox":[500,480,190,30]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"principle-body-2","text":"Orange signals action, danger and anomalies—never decoration alone.","textPreview":"Orange signals action, danger and anomalies—never decoration alone.","textChars":67,"textLines":1,"bbox":[700,478,430,60]}
+{"kind":"image","id":"im/q1cfel4j","slide":2,"name":"","bbox":[72,164,270,270]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"FOUNDATION","textShapes":17}
+{"kind":"shape","id":"sh/a9kfadwn","slide":3,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"section","text":"FOUNDATION","textPreview":"FOUNDATION","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"title","text":"A clear hierarchy keeps the fictional world readable","textPreview":"A clear hierarchy keeps the fictional world readable","textChars":52,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"page","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"arch-bg-0","bbox":[82,160,226,408]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"arch-role-0","text":"PRIMARY MARK","textPreview":"PRIMARY MARK","textChars":12,"textLines":1,"bbox":[100,360,190,24]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"arch-name-0","text":"Station Aurora","textPreview":"Station Aurora","textChars":14,"textLines":1,"bbox":[100,392,190,54]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"arch-use-0","text":"Adventure title, crew assets, station documents","textPreview":"Adventure title, crew assets, station documents","textChars":47,"textLines":1,"bbox":[104,466,182,78]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"arch-bg-1","bbox":[378,160,226,408]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"arch-role-1","text":"PARENT AGENCY","textPreview":"PARENT AGENCY","textChars":13,"textLines":1,"bbox":[396,360,190,24]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"arch-name-1","text":"MAPLE","textPreview":"MAPLE","textChars":5,"textLines":1,"bbox":[396,392,190,54]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"arch-use-1","text":"Official briefings, IDs and mission-control material","textPreview":"Official briefings, IDs and mission-control material","textChars":52,"textLines":1,"bbox":[400,466,182,78]}
+{"kind":"shape","id":"sh/w7ulsvqp","slide":3,"name":"arch-bg-2","bbox":[674,160,226,408]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"arch-role-2","text":"SYSTEM MARK","textPreview":"SYSTEM MARK","textChars":11,"textLines":1,"bbox":[692,360,190,24]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"arch-name-2","text":"H.A.R.O.L.D.","textPreview":"H.A.R.O.L.D.","textChars":12,"textLines":1,"bbox":[692,392,190,54]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"arch-use-2","text":"Terminal, diagnostics and automated instructions","textPreview":"Terminal, diagnostics and automated instructions","textChars":48,"textLines":1,"bbox":[696,466,182,78]}
+{"kind":"shape","id":"sh/03ix43e5","slide":3,"name":"arch-bg-3","bbox":[970,160,226,408]}
+{"kind":"textbox","id":"sh/6d0fytg3","slide":3,"name":"arch-role-3","text":"EVIDENCE MARKS","textPreview":"EVIDENCE MARKS","textChars":14,"textLines":1,"bbox":[988,360,190,24]}
+{"kind":"textbox","id":"sh/re9g7yxo","slide":3,"name":"arch-name-3","text":"In-world entities","textPreview":"In-world entities","textChars":17,"textLines":1,"bbox":[988,392,190,54]}
+{"kind":"textbox","id":"sh/sfix03y9","slide":3,"name":"arch-use-3","text":"Bank, betting, retail and antagonist documents","textPreview":"Bank, betting, retail and antagonist documents","textChars":46,"textLines":1,"bbox":[992,466,182,78]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"hierarchy-note","text":"Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.","textPreview":"Rule: only Station Aurora and MAPLE should behave like master brands. Other marks are story evidence.","textChars":101,"textLines":1,"bbox":[96,604,1088,32]}
+{"kind":"image","id":"im/kvmd4n29","slide":3,"name":"","bbox":[118,188,154,154]}
+{"kind":"image","id":"im/ihgryp0r","slide":3,"name":"","bbox":[414,223.03,154,83.94]}
+{"kind":"image","id":"im/3ipsru1c","slide":3,"name":"","bbox":[710,188,154,154]}
+{"kind":"image","id":"im/4jyt0zix","slide":3,"name":"","bbox":[1006,188,154,154]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"FOUNDATION","textShapes":16}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"section","text":"FOUNDATION","textPreview":"FOUNDATION","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"title","text":"Two colours carry the core identity","textPreview":"Two colours carry the core identity","textChars":35,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"page","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"navy-swatch","bbox":[72,158,510,300]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"navy-name","text":"AURORA NAVY","textPreview":"AURORA NAVY","textChars":11,"textLines":1,"bbox":[104,196,420,40]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"navy-hex","text":"#16253C","textPreview":"#16253C","textChars":7,"textLines":1,"bbox":[104,338,420,70]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"navy-use","text":"Authority • structure • night systems","textPreview":"Authority • structure • night systems","textChars":37,"textLines":1,"bbox":[104,408,420,30]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"orange-swatch","bbox":[614,158,510,300]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"orange-name","text":"EMERGENCY ORANGE","textPreview":"EMERGENCY ORANGE","textChars":16,"textLines":1,"bbox":[646,196,420,40]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"orange-hex","text":"#A84420","textPreview":"#A84420","textChars":7,"textLines":1,"bbox":[646,338,420,70]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"orange-use","text":"Action • warning • evidence anomaly","textPreview":"Action • warning • evidence anomaly","textChars":35,"textLines":1,"bbox":[646,408,420,30]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"label-Recommended supporting neutrals-72-500","text":"RECOMMENDED SUPPORTING NEUTRALS","textPreview":"RECOMMENDED SUPPORTING NEUTRALS","textChars":31,"textLines":1,"bbox":[72,500,460,24]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"neutral-0","bbox":[72,536,184,52]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"neutral-name-0","text":"WHITE","textPreview":"WHITE","textChars":5,"textLines":1,"bbox":[72,600,184,20]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"neutral-1","bbox":[283,536,184,52]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"neutral-name-1","text":"COOL PAPER","textPreview":"COOL PAPER","textChars":10,"textLines":1,"bbox":[283,600,184,20]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"neutral-2","bbox":[494,536,184,52]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"neutral-name-2","text":"DATA BLUE","textPreview":"DATA BLUE","textChars":9,"textLines":1,"bbox":[494,600,184,20]}
+{"kind":"shape","id":"sh/3ytsrmpw","slide":4,"name":"neutral-3","bbox":[705,536,184,52]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"neutral-name-3","text":"ALERT TINT","textPreview":"ALERT TINT","textChars":10,"textLines":1,"bbox":[705,600,184,20]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"neutral-4","bbox":[916,536,184,52]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"neutral-name-4","text":"INK","textPreview":"INK","textChars":3,"textLines":1,"bbox":[916,600,184,20]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"FOUNDATION","textShapes":17}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"section","text":"FOUNDATION","textPreview":"FOUNDATION","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"title","text":"Typography separates station voice from evidence","textPreview":"Typography separates station voice from evidence","textChars":48,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"page","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"label-DISPLAY-72-154","text":"DISPLAY","textPreview":"DISPLAY","textChars":7,"textLines":1,"bbox":[72,154,150,24]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"type-sample-0","text":"ORBITRON EXTRABOLD","textPreview":"ORBITRON EXTRABOLD","textChars":18,"textLines":1,"bbox":[236,150,490,42]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"type-use-0","text":"Station titles, key labels and dramatic system states","textPreview":"Station titles, key labels and dramatic system states","textChars":53,"textLines":1,"bbox":[754,152,410,54]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"type-rule-0","bbox":[72,219,1092,2]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"label-SYSTEM-72-270","text":"SYSTEM","textPreview":"SYSTEM","textChars":6,"textLines":1,"bbox":[72,270,150,24]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"type-sample-1","text":"ORBITRON","textPreview":"ORBITRON","textChars":8,"textLines":1,"bbox":[236,266,490,42]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"type-use-1","text":"Navigation, short instructions, codes and crew-card labels","textPreview":"Navigation, short instructions, codes and crew-card labels","textChars":58,"textLines":1,"bbox":[754,268,410,54]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"type-rule-1","bbox":[72,335,1092,2]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"label-OPERATIONAL-72-386","text":"OPERATIONAL","textPreview":"OPERATIONAL","textChars":11,"textLines":1,"bbox":[72,386,150,24]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"type-sample-2","text":"Aptos","textPreview":"Aptos","textChars":5,"textLines":1,"bbox":[236,382,490,42]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"type-use-2","text":"Briefings, records and longer reading","textPreview":"Briefings, records and longer reading","textChars":37,"textLines":1,"bbox":[754,384,410,54]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"type-rule-2","bbox":[72,451,1092,2]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"label-DATA-72-502","text":"DATA","textPreview":"DATA","textChars":4,"textLines":1,"bbox":[72,502,150,24]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"type-sample-3","text":"Aptos Mono 2912 / ORBIT","textPreview":"Aptos Mono 2912 / ORBIT","textChars":23,"textLines":1,"bbox":[236,498,490,42]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"type-use-3","text":"Receipts, timestamps, keypad inputs and diagnostics","textPreview":"Receipts, timestamps, keypad inputs and diagnostics","textChars":51,"textLines":1,"bbox":[754,500,410,54]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"type-rule-3","bbox":[72,567,1092,2]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"type-reserved","bbox":[72,620,1092,42]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"type-reserved-copy","text":"RESERVED: Dreaming Outloud Pro for rare handwriting. Choose one E.V.I.L. typeface before final production.","textPreview":"RESERVED: Dreaming Outloud Pro for rare handwriting. Choose one E.V.I.L. typeface before final production.","textChars":106,"textLines":1,"bbox":[90,630,1056,22]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"MARKS","textShapes":14}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"section","text":"MARKS","textPreview":"MARKS","textChars":5,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"title","text":"Station Aurora owns the page","textPreview":"Station Aurora owns the page","textChars":28,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"page","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"logo-field","bbox":[72,158,494,420]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"logo-caption","text":"PRIMARY PROJECT MARK","textPreview":"PRIMARY PROJECT MARK","textChars":20,"textLines":1,"bbox":[142,526,354,28]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"label-Use-622-168","text":"USE","textPreview":"USE","textChars":3,"textLines":1,"bbox":[622,168,130,24]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"bullet-622-204","text":"• One clear primary mark per asset","textPreview":"• One clear primary mark per asset","textChars":34,"textLines":1,"bbox":[622,204,520,44]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"bullet-622-254","text":"• Keep generous open space around the patch","textPreview":"• Keep generous open space around the patch","textChars":43,"textLines":1,"bbox":[622,254,520,44]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"bullet-622-304","text":"• Use MAPLE as issuer or parent agency","textPreview":"• Use MAPLE as issuer or parent agency","textChars":38,"textLines":1,"bbox":[622,304,520,44]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"label-Avoid-622-390","text":"AVOID","textPreview":"AVOID","textChars":5,"textLines":1,"bbox":[622,390,130,24]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"bullet-622-426","text":"• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands","textPreview":"• Treating H.A.R.O.L.D. or E.V.I.L. as co-equal brands","textChars":54,"textLines":1,"bbox":[622,426,520,44]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"bullet-622-482","text":"• Placing the patch on busy imagery without contrast","textPreview":"• Placing the patch on busy imagery without contrast","textChars":52,"textLines":1,"bbox":[622,482,520,44]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"bullet-622-538","text":"• Enlarging the current 102 px patch for large-format print","textPreview":"• Enlarging the current 102 px patch for large-format print","textChars":59,"textLines":1,"bbox":[622,538,520,44]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"logo-gap","text":"Production gap: create a vector or high-resolution master of the Station Aurora patch.","textPreview":"Production gap: create a vector or high-resolution master of the Station Aurora patch.","textChars":86,"textLines":1,"bbox":[72,610,1092,36]}
+{"kind":"image","id":"im/zax8jq94","slide":6,"name":"","bbox":[168,206,300,300]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"IMAGERY","textShapes":11}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"section","text":"IMAGERY","textPreview":"IMAGERY","textChars":7,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"title","text":"Illustration should feel retro-futurist, not generic sci-fi","textPreview":"Illustration should feel retro-futurist, not generic sci-fi","textChars":59,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"page","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"world-side","bbox":[812,150,390,470]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"label-Keep-844-184","text":"KEEP","textPreview":"KEEP","textChars":4,"textLines":1,"bbox":[844,184,130,24]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"bullet-844-222","text":"• Navy machinery with warm orange failure points","textPreview":"• Navy machinery with warm orange failure points","textChars":48,"textLines":1,"bbox":[844,222,324,60]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"bullet-844-294","text":"• Visible wear, paper texture and practical equipment","textPreview":"• Visible wear, paper texture and practical equipment","textChars":53,"textLines":1,"bbox":[844,294,324,60]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"bullet-844-366","text":"• Canadian cues used as world-building, not decoration","textPreview":"• Canadian cues used as world-building, not decoration","textChars":54,"textLines":1,"bbox":[844,366,324,60]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"label-Avoid-844-464","text":"AVOID","textPreview":"AVOID","textChars":5,"textLines":1,"bbox":[844,464,130,24]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"bullet-844-500","text":"• Neon cyberpunk palettes","textPreview":"• Neon cyberpunk palettes","textChars":25,"textLines":1,"bbox":[844,500,324,44]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"bullet-844-550","text":"• Photoreal and cartoon styles mixed in one asset","textPreview":"• Photoreal and cartoon styles mixed in one asset","textChars":49,"textLines":1,"bbox":[844,550,324,52]}
+{"kind":"image","id":"im/j2xwvyhk","slide":7,"name":"","bbox":[64,150,718,470]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"IMAGERY","textShapes":9}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"section","text":"IMAGERY","textPreview":"IMAGERY","textChars":7,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"title","text":"Icons behave like station instrumentation","textPreview":"Icons behave like station instrumentation","textChars":41,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"page","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"label-Rules-686-386","text":"RULES","textPreview":"RULES","textChars":5,"textLines":1,"bbox":[686,386,150,24]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"bullet-686-424","text":"• Use a single navy icon family for modules and controls","textPreview":"• Use a single navy icon family for modules and controls","textChars":56,"textLines":1,"bbox":[686,424,470,44]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"bullet-686-478","text":"• Keep icons flat, legible and printable in one colour","textPreview":"• Keep icons flat, legible and printable in one colour","textChars":54,"textLines":1,"bbox":[686,478,470,44]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"bullet-686-532","text":"• Reserve orange for the active fault or required action","textPreview":"• Reserve orange for the active fault or required action","textChars":56,"textLines":1,"bbox":[686,532,470,44]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"icon-note","text":"H.A.R.O.L.D. is a character mark; module icons should remain simpler than the mascot.","textPreview":"H.A.R.O.L.D. is a character mark; module icons should remain simpler than the mascot.","textChars":85,"textLines":1,"bbox":[72,594,1090,42]}
+{"kind":"image","id":"im/ep47m9kn","slide":8,"name":"","bbox":[72,164,560,392]}
+{"kind":"image","id":"im/1svqhoje","slide":8,"name":"","bbox":[742,172,190,190]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"APPLICATIONS","textShapes":13}
+{"kind":"shape","id":"sh/hcji5o7a","slide":9,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"section","text":"APPLICATIONS","textPreview":"APPLICATIONS","textChars":12,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"title","text":"Props should look issued, handled and believable","textPreview":"Props should look issued, handled and believable","textChars":48,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"page","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"prop-frame-0","bbox":[72,160,250,362]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"label-RETAIL-94-382","text":"RETAIL","textPreview":"RETAIL","textChars":6,"textLines":1,"bbox":[94,382,206,24]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"prop-rule-0","text":"Thermal-paper tone, mono data, imperfect alignment","textPreview":"Thermal-paper tone, mono data, imperfect alignment","textChars":50,"textLines":1,"bbox":[94,420,206,80]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"prop-frame-1","bbox":[356,160,250,362]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"label-BETTING-378-382","text":"BETTING","textPreview":"BETTING","textChars":7,"textLines":1,"bbox":[378,382,206,24]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"prop-rule-1","text":"Distinct identities; restrained document layouts","textPreview":"Distinct identities; restrained document layouts","textChars":48,"textLines":1,"bbox":[378,420,206,80]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"prop-frame-2","bbox":[640,160,250,362]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"label-BANK-662-382","text":"BANK","textPreview":"BANK","textChars":4,"textLines":1,"bbox":[662,382,206,24]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"prop-rule-2","text":"Conservative typography and official spacing","textPreview":"Conservative typography and official spacing","textChars":44,"textLines":1,"bbox":[662,420,206,80]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"prop-frame-3","bbox":[924,160,250,362]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"label-CORPORATE-946-382","text":"CORPORATE","textPreview":"CORPORATE","textChars":9,"textLines":1,"bbox":[946,382,206,24]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"prop-rule-3","text":"Cold, controlled and intentionally separate from Aurora","textPreview":"Cold, controlled and intentionally separate from Aurora","textChars":55,"textLines":1,"bbox":[946,420,206,80]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"prop-principle","text":"Believability comes from hierarchy, spacing, dates, signatures and material—not from adding more decoration.","textPreview":"Believability comes from hierarchy, spacing, dates, signatures and material—not from adding more decoration.","textChars":108,"textLines":1,"bbox":[88,574,1054,50]}
+{"kind":"image","id":"im/bix8bqxw","slide":9,"name":"","bbox":[96,216.86,202,110.27]}
+{"kind":"image","id":"im/wj6p4ve1","slide":9,"name":"","bbox":[380,216.86,202,110.27]}
+{"kind":"image","id":"im/xkfqd0fm","slide":9,"name":"","bbox":[677,184,176,176]}
+{"kind":"image","id":"im/y5or65w7","slide":9,"name":"","bbox":[961,184,176,176]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"APPLICATIONS","textShapes":14}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"section","text":"APPLICATIONS","textPreview":"APPLICATIONS","textChars":12,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"title","text":"Crew cards need one visual generation","textPreview":"Crew cards need one visual generation","textChars":37,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"page","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"crew-bg-0","bbox":[72,156,250,354]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"crew-name-0","text":"HELENA","textPreview":"HELENA","textChars":6,"textLines":1,"bbox":[88,414,218,48]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"crew-state-0","text":"USE","textPreview":"USE","textChars":3,"textLines":1,"bbox":[88,470,218,22]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"crew-bg-1","bbox":[356,156,250,354]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"crew-name-1","text":"SARAH","textPreview":"SARAH","textChars":5,"textLines":1,"bbox":[372,414,218,48]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"crew-state-1","text":"USE","textPreview":"USE","textChars":3,"textLines":1,"bbox":[372,470,218,22]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"crew-bg-2","bbox":[640,156,250,354]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"crew-name-2","text":"ALISTAIR — CURRENT","textPreview":"ALISTAIR — CURRENT","textChars":18,"textLines":1,"bbox":[656,414,218,48]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"crew-state-2","text":"USE","textPreview":"USE","textChars":3,"textLines":1,"bbox":[656,470,218,22]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"crew-bg-3","bbox":[924,156,250,354]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"crew-name-3","text":"ALISTAIR — LEGACY","textPreview":"ALISTAIR — LEGACY","textChars":17,"textLines":1,"bbox":[940,414,218,48]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"crew-state-3","text":"ARCHIVE","textPreview":"ARCHIVE","textChars":7,"textLines":1,"bbox":[940,470,218,22]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"name":"label-Standardize-72-546","text":"STANDARDIZE","textPreview":"STANDARDIZE","textChars":11,"textLines":1,"bbox":[72,546,180,24]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"crew-rule","text":"Use one illustration style, one crop ratio, one data order and one date format across the active crew set.","textPreview":"Use one illustration style, one crop ratio, one data order and one date format across the active crew set.","textChars":106,"textLines":1,"bbox":[250,542,900,56]}
+{"kind":"image","id":"im/w76tsvq5","slide":10,"name":"","bbox":[90,174,214,214]}
+{"kind":"image","id":"im/h8fu1g7q","slide":10,"name":"","bbox":[374,174,214,214]}
+{"kind":"image","id":"im/q9kbeh8v","slide":10,"name":"","bbox":[658,174,214,214]}
+{"kind":"image","id":"im/batcnm9g","slide":10,"name":"","bbox":[942,174,214,214]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/gje4w0","slide":11,"title":"APPLICATIONS","textShapes":14}
+{"kind":"shape","id":"sh/net0fits","slide":11,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/c7mp4fmx","slide":11,"name":"section","text":"APPLICATIONS","textPreview":"APPLICATIONS","textChars":12,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/d8vqx0ni","slide":11,"name":"title","text":"Staff portraits form a coherent station crew","textPreview":"Staff portraits form a coherent station crew","textChars":44,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/2hk7ylov","slide":11,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/3id8rq5g","slide":11,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/ojmp0vml","slide":11,"name":"page","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/pkvqt0n6","slide":11,"name":"crew-bg-0","bbox":[72,156,250,354]}
+{"kind":"textbox","id":"sh/7ex83u5k","slide":11,"name":"crew-name-0","text":"STAFF PORTRAIT 01","textPreview":"STAFF PORTRAIT 01","textChars":17,"textLines":1,"bbox":[88,414,218,48]}
+{"kind":"textbox","id":"sh/3upg3e9o","slide":11,"name":"crew-state-0","text":"REFERENCE SET","textPreview":"REFERENCE SET","textChars":13,"textLines":1,"bbox":[88,470,218,22]}
+{"kind":"shape","id":"sh/2tgfa983","slide":11,"name":"crew-bg-1","bbox":[356,156,250,354]}
+{"kind":"textbox","id":"sh/4vyxczq9","slide":11,"name":"crew-name-1","text":"STAFF PORTRAIT 02","textPreview":"STAFF PORTRAIT 02","textChars":17,"textLines":1,"bbox":[372,414,218,48]}
+{"kind":"textbox","id":"sh/ri9g7e9k","slide":11,"name":"crew-state-1","text":"REFERENCE SET","textPreview":"REFERENCE SET","textChars":13,"textLines":1,"bbox":[372,470,218,22]}
+{"kind":"shape","id":"sh/qh0fe98z","slide":11,"name":"crew-bg-2","bbox":[640,156,250,354]}
+{"kind":"textbox","id":"sh/cjixgjq5","slide":11,"name":"crew-name-2","text":"STAFF PORTRAIT 03","textPreview":"STAFF PORTRAIT 03","textChars":17,"textLines":1,"bbox":[656,414,218,48]}
+{"kind":"textbox","id":"sh/zm9gbypw","slide":11,"name":"crew-state-2","text":"REFERENCE SET","textPreview":"REFERENCE SET","textChars":13,"textLines":1,"bbox":[656,470,218,22]}
+{"kind":"shape","id":"sh/el0zit8b","slide":11,"name":"crew-bg-3","bbox":[924,156,250,354]}
+{"kind":"textbox","id":"sh/bid0ji94","slide":11,"name":"crew-name-3","text":"STAFF PORTRAIT 06","textPreview":"STAFF PORTRAIT 06","textChars":17,"textLines":1,"bbox":[940,414,218,48]}
+{"kind":"textbox","id":"sh/wjm1cnap","slide":11,"name":"crew-state-3","text":"REFERENCE SET","textPreview":"REFERENCE SET","textChars":13,"textLines":1,"bbox":[940,470,218,22]}
+{"kind":"textbox","id":"sh/xkvilsru","slide":11,"name":"label-Standardize-72-546","text":"PORTRAIT RULES","textPreview":"PORTRAIT RULES","textChars":14,"textLines":1,"bbox":[72,546,180,24]}
+{"kind":"textbox","id":"sh/mdkj6ds7","slide":11,"name":"crew-rule","text":"Use chest-up illustrated portraits, navy uniforms, muted cool backgrounds and consistent badge placement. The supplied set contains portraits 01-06; shown here are four representative references.","textPreview":"Use chest-up illustrated portraits, navy uniforms, muted cool backgrounds and consistent badge placement. The supplied set contains portr...","textChars":195,"textLines":1,"bbox":[250,542,900,56]}
+{"kind":"image","id":"im/b65kjalc","slide":11,"name":"","alt":"Staff portrait 01","bbox":[90,174,214,214]}
+{"kind":"image","id":"im/a5wjq5kr","slide":11,"name":"","alt":"Staff portrait 02","bbox":[374,174,214,214]}
+{"kind":"image","id":"im/dc3i9g3y","slide":11,"name":"","alt":"Staff portrait 03","bbox":[658,174,214,214]}
+{"kind":"image","id":"im/cbu1gb2d","slide":11,"name":"","alt":"Staff portrait 06","bbox":[942,174,214,214]}
+{"kind":"notes","id":"nt/gje4w0","slide":11,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":12,"title":"APPLICATIONS","textShapes":10}
+{"kind":"shape","id":"sh/epobatgr","slide":12,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":12,"name":"section","text":"APPLICATIONS","textPreview":"APPLICATIONS","textChars":12,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":12,"name":"title","text":"Digital screens should feel like the same station","textPreview":"Digital screens should feel like the same station","textChars":49,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/n69grmpw","slide":12,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/250zy18b","slide":12,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/98rytw72","slide":12,"name":"page","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":12,"name":"terminal","bbox":[72,154,760,454]}
+{"kind":"shape","id":"sh/72t03qp0","slide":12,"name":"terminal-bar","bbox":[72,154,760,58]}
+{"kind":"textbox","id":"sh/61kzalof","slide":12,"name":"terminal-title","text":"H.A.R.O.L.D.  //  COMMUNICATIONS","textPreview":"H.A.R.O.L.D.  //  COMMUNICATIONS","textChars":32,"textLines":1,"bbox":[100,172,690,24]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":12,"name":"terminal-copy","text":"> SYSTEM DAMAGE DETECTED\n> AWAITING RECOVERY CODE\n\nINPUT: ORBIT\n\nCOMMUNICATIONS RESTORED\nNEXT MODULE AVAILABLE","textPreview":"> SYSTEM DAMAGE DETECTED | > AWAITING RECOVERY CODE |  | INPUT: ORBIT |  | COMMUNICATIONS RESTORED | NEXT MODULE AVAILABLE","textChars":110,"textLines":7,"bbox":[112,248,650,290]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":12,"name":"label-Interface rules-888-422","text":"INTERFACE RULES","textPreview":"INTERFACE RULES","textChars":15,"textLines":1,"bbox":[888,422,230,24]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":12,"name":"bullet-872-458","text":"• Navy field, white data, orange active state","textPreview":"• Navy field, white data, orange active state","textChars":45,"textLines":1,"bbox":[872,458,330,50]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":12,"name":"bullet-872-510","text":"• Short lines and visible system feedback","textPreview":"• Short lines and visible system feedback","textChars":41,"textLines":1,"bbox":[872,510,330,50]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":12,"name":"bullet-872-562","text":"• Never advance twice for a repeated code","textPreview":"• Never advance twice for a repeated code","textChars":41,"textLines":1,"bbox":[872,562,330,50]}
+{"kind":"image","id":"im/one5kr2l","slide":12,"name":"","bbox":[900,158,232,232]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":12,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":13,"title":"PORTFOLIO","textShapes":5}
+{"kind":"shape","id":"sh/bulo7u58","slide":13,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":13,"name":"section","text":"PORTFOLIO","textPreview":"PORTFOLIO","textChars":9,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":13,"name":"title","text":"The strongest imagery already shares one world","textPreview":"The strongest imagery already shares one world","textChars":46,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/ra943il8","slide":13,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":13,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":13,"name":"page","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/atc7epon","slide":13,"name":"portfolio-caption","text":"Environment • technical diagram • crew illustration","textPreview":"Environment • technical diagram • crew illustration","textChars":51,"textLines":1,"bbox":[72,612,1122,30]}
+{"kind":"image","id":"im/fudovqlo","slide":13,"name":"","bbox":[72,156,534,438]}
+{"kind":"image","id":"im/et472543","slide":13,"name":"","bbox":[630,156,270,208]}
+{"kind":"image","id":"im/1wf6x03u","slide":13,"name":"","bbox":[924,156,270,208]}
+{"kind":"image","id":"im/0vmp4vm9","slide":13,"name":"","bbox":[630,386,270,208]}
+{"kind":"image","id":"im/vytoz6lk","slide":13,"name":"","bbox":[924,386,270,208]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":13,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":14,"title":"PORTFOLIO","textShapes":13}
+{"kind":"shape","id":"sh/5cn2h8vy","slide":14,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":14,"name":"section","text":"PORTFOLIO","textPreview":"PORTFOLIO","textChars":9,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/bq9orito","slide":14,"name":"title","text":"The mark library supports both authority and misdirection","textPreview":"The mark library supports both authority and misdirection","textChars":57,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":14,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":14,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":14,"name":"page","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"shape","id":"sh/32ponyts","slide":14,"name":"mark-bg-0","bbox":[72,158,250,182]}
+{"kind":"textbox","id":"sh/1076lobm","slide":14,"name":"mark-name-0","text":"AURORA","textPreview":"AURORA","textChars":6,"textLines":1,"bbox":[90,302,214,22]}
+{"kind":"shape","id":"sh/hcfy9k3u","slide":14,"name":"mark-bg-1","bbox":[356,158,250,182]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":14,"name":"mark-name-1","text":"MAPLE","textPreview":"MAPLE","textChars":5,"textLines":1,"bbox":[374,302,214,22]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":14,"name":"mark-bg-2","bbox":[640,158,250,182]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":14,"name":"mark-name-2","text":"H.A.R.O.L.D.","textPreview":"H.A.R.O.L.D.","textChars":12,"textLines":1,"bbox":[658,302,214,22]}
+{"kind":"shape","id":"sh/7mdg3als","slide":14,"name":"mark-bg-3","bbox":[924,158,250,182]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":14,"name":"mark-name-3","text":"E.V.I.L.","textPreview":"E.V.I.L.","textChars":8,"textLines":1,"bbox":[942,302,214,22]}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":14,"name":"mark-bg-4","bbox":[72,376,250,182]}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":14,"name":"mark-name-4","text":"B.A.D.","textPreview":"B.A.D.","textChars":6,"textLines":1,"bbox":[90,520,214,22]}
+{"kind":"shape","id":"sh/q18f65cr","slide":14,"name":"mark-bg-5","bbox":[356,376,250,182]}
+{"kind":"textbox","id":"sh/oz6x4vul","slide":14,"name":"mark-name-5","text":"B.A.D. ALT","textPreview":"B.A.D. ALT","textChars":10,"textLines":1,"bbox":[374,520,214,22]}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":14,"name":"mark-bg-6","bbox":[640,376,250,182]}
+{"kind":"textbox","id":"sh/3yxgbqdg","slide":14,"name":"mark-name-6","text":"FISH & NUTS","textPreview":"FISH & NUTS","textChars":11,"textLines":1,"bbox":[658,520,214,22]}
+{"kind":"shape","id":"sh/8vahgzu5","slide":14,"name":"mark-bg-7","bbox":[924,376,250,182]}
+{"kind":"textbox","id":"sh/jqlkfyds","slide":14,"name":"mark-name-7","text":"BETTING","textPreview":"BETTING","textChars":7,"textLines":1,"bbox":[942,520,214,22]}
+{"kind":"textbox","id":"sh/ipcjmtw7","slide":14,"name":"marks-note","text":"Keep alternates only when they serve a defined clue or production need; otherwise archive them.","textPreview":"Keep alternates only when they serve a defined clue or production need; otherwise archive them.","textChars":95,"textLines":1,"bbox":[72,620,1092,28]}
+{"kind":"image","id":"im/ba543ul4","slide":14,"name":"","bbox":[137,172,120,120]}
+{"kind":"image","id":"im/o7el8fmt","slide":14,"name":"","bbox":[391,182.95,180,98.11]}
+{"kind":"image","id":"im/98nm1k3e","slide":14,"name":"","bbox":[705,172,120,120]}
+{"kind":"image","id":"im/mlw36p4n","slide":14,"name":"","bbox":[989,172,120,120]}
+{"kind":"image","id":"im/n65kzul8","slide":14,"name":"","bbox":[137,390,120,120]}
+{"kind":"image","id":"im/83ilkjmx","slide":14,"name":"","bbox":[421,390,120,120]}
+{"kind":"image","id":"im/t4rmdo3i","slide":14,"name":"","bbox":[675,400.87,180,98.26]}
+{"kind":"image","id":"im/poji5gju","slide":14,"name":"","bbox":[959,400.87,180,98.26]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":14,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":15,"title":"GOVERNANCE","textShapes":28}
+{"kind":"shape","id":"sh/kzy5on2p","slide":15,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":15,"name":"section","text":"GOVERNANCE","textPreview":"GOVERNANCE","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":15,"name":"title","text":"The remaining design debt is specific and manageable","textPreview":"The remaining design debt is specific and manageable","textChars":52,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":15,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":15,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":15,"name":"page","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":15,"name":"label-Priority-72-152","text":"PRIORITY","textPreview":"PRIORITY","textChars":8,"textLines":1,"bbox":[72,152,108,24]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":15,"name":"label-Decision-188-152","text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[188,152,260,24]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":15,"name":"label-Current issue-468-152","text":"CURRENT ISSUE","textPreview":"CURRENT ISSUE","textChars":13,"textLines":1,"bbox":[468,152,300,24]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":15,"name":"label-Resolution-790-152","text":"RESOLUTION","textPreview":"RESOLUTION","textChars":10,"textLines":1,"bbox":[790,152,370,24]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":15,"name":"debt-row-0","bbox":[72,190,1092,68]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":15,"name":"debt-p-0","text":"P0","textPreview":"P0","textChars":2,"textLines":1,"bbox":[88,209,76,26]}
+{"kind":"textbox","id":"sh/b2507exs","slide":15,"name":"debt-d-0","text":"Station patch master","textPreview":"Station patch master","textChars":20,"textLines":1,"bbox":[188,204,252,40]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":15,"name":"debt-i-0","text":"Current file is 102 × 102 px","textPreview":"Current file is 102 × 102 px","textChars":28,"textLines":1,"bbox":[468,202,290,46]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":15,"name":"debt-r-0","text":"Create vector/high-resolution master","textPreview":"Create vector/high-resolution master","textChars":36,"textLines":1,"bbox":[790,202,346,46]}
+{"kind":"shape","id":"sh/y5wjitgj","slide":15,"name":"debt-row-1","bbox":[72,274,1092,68]}
+{"kind":"textbox","id":"sh/z650byxo","slide":15,"name":"debt-p-1","text":"P0","textPreview":"P0","textChars":2,"textLines":1,"bbox":[88,293,76,26]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":15,"name":"debt-d-1","text":"Crew illustration style","textPreview":"Crew illustration style","textChars":23,"textLines":1,"bbox":[188,288,252,40]}
+{"kind":"textbox","id":"sh/1w3i14fq","slide":15,"name":"debt-i-1","text":"Current and legacy Alistair styles conflict","textPreview":"Current and legacy Alistair styles conflict","textChars":43,"textLines":1,"bbox":[468,286,290,46]}
+{"kind":"textbox","id":"sh/hsvy50re","slide":15,"name":"debt-r-1","text":"Choose active style; archive the other","textPreview":"Choose active style; archive the other","textChars":38,"textLines":1,"bbox":[790,286,346,46]}
+{"kind":"shape","id":"sh/grmxwvqt","slide":15,"name":"debt-row-2","bbox":[72,358,1092,68]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":15,"name":"debt-p-2","text":"P1","textPreview":"P1","textChars":2,"textLines":1,"bbox":[88,377,76,26]}
+{"kind":"textbox","id":"sh/up4fal83","slide":15,"name":"debt-d-2","text":"E.V.I.L. typography","textPreview":"E.V.I.L. typography","textChars":19,"textLines":1,"bbox":[188,372,252,40]}
+{"kind":"textbox","id":"sh/pwvy90rq","slide":15,"name":"debt-i-2","text":"Times New Roman and DownCity both appear","textPreview":"Times New Roman and DownCity both appear","textChars":40,"textLines":1,"bbox":[468,370,290,46]}
+{"kind":"textbox","id":"sh/4vmh0vq5","slide":15,"name":"debt-r-2","text":"Select one corporate treatment","textPreview":"Select one corporate treatment","textChars":30,"textLines":1,"bbox":[790,370,346,46]}
+{"kind":"shape","id":"sh/3udg7q9k","slide":15,"name":"debt-row-3","bbox":[72,442,1092,68]}
+{"kind":"textbox","id":"sh/2t4fyl8z","slide":15,"name":"debt-p-3","text":"P1","textPreview":"P1","textChars":2,"textLines":1,"bbox":[88,461,76,26]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":15,"name":"debt-d-3","text":"Document templates","textPreview":"Document templates","textChars":18,"textLines":1,"bbox":[188,456,252,40]}
+{"kind":"textbox","id":"sh/cz6h4fq1","slide":15,"name":"debt-i-3","text":"Props share ideas but not fixed layouts","textPreview":"Props share ideas but not fixed layouts","textChars":39,"textLines":1,"bbox":[468,454,290,46]}
+{"kind":"textbox","id":"sh/atg3idk7","slide":15,"name":"debt-r-3","text":"Create briefing, evidence and memo masters","textPreview":"Create briefing, evidence and memo masters","textChars":42,"textLines":1,"bbox":[790,454,346,46]}
+{"kind":"shape","id":"sh/bup4rils","slide":15,"name":"debt-row-4","bbox":[72,526,1092,68]}
+{"kind":"textbox","id":"sh/cvylkn2d","slide":15,"name":"debt-p-4","text":"P1","textPreview":"P1","textChars":2,"textLines":1,"bbox":[88,545,76,26]}
+{"kind":"textbox","id":"sh/xw7mts3y","slide":15,"name":"debt-d-4","text":"Digital UI states","textPreview":"Digital UI states","textChars":17,"textLines":1,"bbox":[188,540,252,40]}
+{"kind":"textbox","id":"sh/yxgnmxkj","slide":15,"name":"debt-i-4","text":"Only part of H.A.R.O.L.D. is implemented","textPreview":"Only part of H.A.R.O.L.D. is implemented","textChars":40,"textLines":1,"bbox":[468,538,290,46]}
+{"kind":"textbox","id":"sh/jyp4fil4","slide":15,"name":"debt-r-4","text":"Define five module states and feedback","textPreview":"Define five module states and feedback","textChars":38,"textLines":1,"bbox":[790,538,346,46]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":15,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":16,"title":"GOVERNANCE","textShapes":13}
+{"kind":"shape","id":"sh/o7ah4nm5","slide":16,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":16,"name":"section","text":"GOVERNANCE","textPreview":"GOVERNANCE","textChars":10,"textLines":1,"bbox":[64,34,420,24]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":16,"name":"title","text":"Use this checklist before releasing any asset","textPreview":"Use this checklist before releasing any asset","textChars":45,"textLines":1,"bbox":[64,64,1140,62]}
+{"kind":"shape","id":"sh/76p4jqls","slide":16,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":16,"name":"footer","text":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textPreview":"SPACE STATION AURORA  |  WORKING VISUAL SYSTEM","textChars":46,"textLines":1,"bbox":[64,688,900,18]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":16,"name":"page","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1130,686,86,18]}
+{"kind":"textbox","id":"sh/na5476l8","slide":16,"name":"check-callout","text":"If an asset cannot pass every check, label it WORKING—not final.","textPreview":"If an asset cannot pass every check, label it WORKING—not final.","textChars":64,"textLines":1,"bbox":[72,486,340,90]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":16,"name":"check-box-0","bbox":[468,156,34,34]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":16,"name":"check-text-0","text":"One clear issuer and one clear purpose","textPreview":"One clear issuer and one clear purpose","textChars":38,"textLines":1,"bbox":[524,154,620,40]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":16,"name":"check-box-1","bbox":[468,222,34,34]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":16,"name":"check-text-1","text":"Navy and orange used with defined roles","textPreview":"Navy and orange used with defined roles","textChars":39,"textLines":1,"bbox":[524,220,620,40]}
+{"kind":"shape","id":"sh/vqdsrqx4","slide":16,"name":"check-box-2","bbox":[468,288,34,34]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":16,"name":"check-text-2","text":"Typography matches the content type","textPreview":"Typography matches the content type","textChars":35,"textLines":1,"bbox":[524,286,620,40]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":16,"name":"check-box-3","bbox":[468,354,34,34]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":16,"name":"check-text-3","text":"Images belong to the same visual generation","textPreview":"Images belong to the same visual generation","textChars":43,"textLines":1,"bbox":[524,352,620,40]}
+{"kind":"shape","id":"sh/judsvqxg","slide":16,"name":"check-box-4","bbox":[468,420,34,34]}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":16,"name":"check-text-4","text":"Dates, names, acronyms and codes match canon","textPreview":"Dates, names, acronyms and codes match canon","textChars":44,"textLines":1,"bbox":[524,418,620,40]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":16,"name":"check-box-5","bbox":[468,486,34,34]}
+{"kind":"textbox","id":"sh/1kjyt83e","slide":16,"name":"check-text-5","text":"Print size, contrast and crop have been tested","textPreview":"Print size, contrast and crop have been tested","textChars":46,"textLines":1,"bbox":[524,484,620,40]}
+{"kind":"shape","id":"sh/gjax03m9","slide":16,"name":"check-box-6","bbox":[468,552,34,34]}
+{"kind":"textbox","id":"sh/fi1grylo","slide":16,"name":"check-text-6","text":"Source file, export and archive version are named","textPreview":"Source file, export and archive version are named","textChars":49,"textLines":1,"bbox":[524,550,620,40]}
+{"kind":"shape","id":"sh/ehsfyt43","slide":16,"name":"next-action","bbox":[468,622,676,40]}
+{"kind":"textbox","id":"sh/p8jyx83q","slide":16,"name":"next-action-copy","text":"NEXT: resolve the P0 decisions, then create reusable prop templates.","textPreview":"NEXT: resolve the P0 decisions, then create reusable prop templates.","textChars":68,"textLines":1,"bbox":[486,631,640,22]}
+{"kind":"image","id":"im/gve5crul","slide":16,"name":"","bbox":[82,176,270,270]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":16,"text":""}

@@ -1,0 +1,684 @@
+{
+  "sourcePptx": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Support_Design.pptx",
+  "workspace": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build",
+  "outDir": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect",
+  "generatedAt": "2026-09-03T14:34:07.748Z",
+  "slideCount": 21,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-02.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-02.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-02.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-03.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-03.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-03.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-04.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-04.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-04.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-04.layout.json"
+    },
+    {
+      "slide": 5,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-05.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-05.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-05.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-05.layout.json"
+    },
+    {
+      "slide": 6,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-06.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-06.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-06.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-06.layout.json"
+    },
+    {
+      "slide": 7,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-07.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-07.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-07.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-07.layout.json"
+    },
+    {
+      "slide": 8,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-08.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-08.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-08.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-08.layout.json"
+    },
+    {
+      "slide": 9,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-09.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-09.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-09.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-09.layout.json"
+    },
+    {
+      "slide": 10,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-10.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-10.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-10.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-10.layout.json"
+    },
+    {
+      "slide": 11,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-11.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-11.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-11.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-11.layout.json"
+    },
+    {
+      "slide": 12,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-12.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-12.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-12.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-12.layout.json"
+    },
+    {
+      "slide": 13,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-13.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-13.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-13.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-13.layout.json"
+    },
+    {
+      "slide": 14,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-14.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-14.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-14.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-14.layout.json"
+    },
+    {
+      "slide": 15,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-15.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-15.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-15.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-15.layout.json"
+    },
+    {
+      "slide": 16,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-16.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-16.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-16.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-16.layout.json"
+    },
+    {
+      "slide": 17,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-17.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-17.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-17.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-17.layout.json"
+    },
+    {
+      "slide": 18,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-18.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-18.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-18.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-18.layout.json"
+    },
+    {
+      "slide": 19,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-19.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-19.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-19.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-19.layout.json"
+    },
+    {
+      "slide": 20,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-20.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-20.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-20.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-20.layout.json"
+    },
+    {
+      "slide": 21,
+      "previewPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\source-slides\\source-slide-21.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-21.png",
+      "layoutPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\layouts\\source-slide-21.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-21.layout.json"
+    }
+  ],
+  "inspectPath": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "pkc8kj",
+    "target": {
+      "id": "pr/mfkusv"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image5.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image5.png",
+      "relativePath": "template-inspect/assets/ppt/media/image5.png",
+      "bytes": 540427
+    },
+    {
+      "entry": "ppt/media/image6.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image6.png",
+      "relativePath": "template-inspect/assets/ppt/media/image6.png",
+      "bytes": 242644
+    },
+    {
+      "entry": "ppt/media/hdphoto4.wdp",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\hdphoto4.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto4.wdp",
+      "bytes": 150998
+    },
+    {
+      "entry": "ppt/media/image7.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image7.png",
+      "relativePath": "template-inspect/assets/ppt/media/image7.png",
+      "bytes": 1689688
+    },
+    {
+      "entry": "ppt/media/image8.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image8.png",
+      "relativePath": "template-inspect/assets/ppt/media/image8.png",
+      "bytes": 21906
+    },
+    {
+      "entry": "ppt/media/image9.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image9.png",
+      "relativePath": "template-inspect/assets/ppt/media/image9.png",
+      "bytes": 418992
+    },
+    {
+      "entry": "ppt/media/hdphoto5.wdp",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\hdphoto5.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto5.wdp",
+      "bytes": 107728
+    },
+    {
+      "entry": "ppt/media/image10.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image10.png",
+      "relativePath": "template-inspect/assets/ppt/media/image10.png",
+      "bytes": 1891267
+    },
+    {
+      "entry": "ppt/media/image11.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image11.png",
+      "relativePath": "template-inspect/assets/ppt/media/image11.png",
+      "bytes": 200815
+    },
+    {
+      "entry": "ppt/media/image12.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image12.png",
+      "relativePath": "template-inspect/assets/ppt/media/image12.png",
+      "bytes": 2016905
+    },
+    {
+      "entry": "ppt/media/image13.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image13.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image13.svg",
+      "bytes": 711
+    },
+    {
+      "entry": "ppt/media/image14.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image14.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image14.svg",
+      "bytes": 1113
+    },
+    {
+      "entry": "ppt/media/image15.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image15.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image15.svg",
+      "bytes": 303
+    },
+    {
+      "entry": "ppt/media/image16.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image16.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image16.svg",
+      "bytes": 1114
+    },
+    {
+      "entry": "ppt/media/image17.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image17.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image17.svg",
+      "bytes": 1558
+    },
+    {
+      "entry": "ppt/media/image18.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image18.png",
+      "relativePath": "template-inspect/assets/ppt/media/image18.png",
+      "bytes": 176
+    },
+    {
+      "entry": "ppt/media/image19.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image19.png",
+      "relativePath": "template-inspect/assets/ppt/media/image19.png",
+      "bytes": 1971892
+    },
+    {
+      "entry": "ppt/media/image20.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image20.png",
+      "relativePath": "template-inspect/assets/ppt/media/image20.png",
+      "bytes": 2263764
+    },
+    {
+      "entry": "ppt/media/image21.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image21.png",
+      "relativePath": "template-inspect/assets/ppt/media/image21.png",
+      "bytes": 1936152
+    },
+    {
+      "entry": "ppt/media/image22.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image22.png",
+      "relativePath": "template-inspect/assets/ppt/media/image22.png",
+      "bytes": 1740606
+    },
+    {
+      "entry": "ppt/media/image23.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image23.png",
+      "relativePath": "template-inspect/assets/ppt/media/image23.png",
+      "bytes": 2239031
+    },
+    {
+      "entry": "ppt/media/image24.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image24.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image24.svg",
+      "bytes": 1106
+    },
+    {
+      "entry": "ppt/media/image25.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image25.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image25.svg",
+      "bytes": 772
+    },
+    {
+      "entry": "ppt/media/image26.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image26.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image26.svg",
+      "bytes": 2763
+    },
+    {
+      "entry": "ppt/media/image27.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image27.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image27.svg",
+      "bytes": 2360
+    },
+    {
+      "entry": "ppt/media/image28.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image28.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image28.svg",
+      "bytes": 1175
+    },
+    {
+      "entry": "ppt/media/image29.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image29.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image29.svg",
+      "bytes": 2277
+    },
+    {
+      "entry": "ppt/media/image30.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image30.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image30.svg",
+      "bytes": 1939
+    },
+    {
+      "entry": "ppt/media/image55.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image55.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image55.svg",
+      "bytes": 1695
+    },
+    {
+      "entry": "ppt/media/image56.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image56.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image56.svg",
+      "bytes": 544
+    },
+    {
+      "entry": "ppt/media/image57.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image57.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image57.svg",
+      "bytes": 939
+    },
+    {
+      "entry": "ppt/media/image58.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image58.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image58.svg",
+      "bytes": 482
+    },
+    {
+      "entry": "ppt/media/image59.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image59.png",
+      "relativePath": "template-inspect/assets/ppt/media/image59.png",
+      "bytes": 1685911
+    },
+    {
+      "entry": "ppt/media/image60.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image60.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image60.svg",
+      "bytes": 545
+    },
+    {
+      "entry": "ppt/media/image61.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image61.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image61.svg",
+      "bytes": 1052
+    },
+    {
+      "entry": "ppt/media/image62.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image62.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image62.svg",
+      "bytes": 545
+    },
+    {
+      "entry": "ppt/media/image63.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image63.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image63.svg",
+      "bytes": 588
+    },
+    {
+      "entry": "ppt/media/image64.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image64.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image64.svg",
+      "bytes": 10314
+    },
+    {
+      "entry": "ppt/media/image65.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image65.png",
+      "relativePath": "template-inspect/assets/ppt/media/image65.png",
+      "bytes": 3095481
+    },
+    {
+      "entry": "ppt/media/image66.PNG",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image66.PNG",
+      "relativePath": "template-inspect/assets/ppt/media/image66.PNG",
+      "bytes": 77319
+    },
+    {
+      "entry": "ppt/media/image67.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image67.png",
+      "relativePath": "template-inspect/assets/ppt/media/image67.png",
+      "bytes": 11922
+    },
+    {
+      "entry": "ppt/media/image32.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image32.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image32.svg",
+      "bytes": 786
+    },
+    {
+      "entry": "ppt/media/image31.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image31.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image31.svg",
+      "bytes": 1348
+    },
+    {
+      "entry": "ppt/media/image34.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image34.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image34.svg",
+      "bytes": 2745
+    },
+    {
+      "entry": "ppt/media/image35.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image35.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image35.svg",
+      "bytes": 1860
+    },
+    {
+      "entry": "ppt/media/image36.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image36.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image36.svg",
+      "bytes": 897
+    },
+    {
+      "entry": "ppt/media/image37.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image37.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image37.svg",
+      "bytes": 2145
+    },
+    {
+      "entry": "ppt/media/image38.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image38.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image38.svg",
+      "bytes": 583
+    },
+    {
+      "entry": "ppt/media/image39.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image39.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image39.svg",
+      "bytes": 519
+    },
+    {
+      "entry": "ppt/media/image40.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image40.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image40.svg",
+      "bytes": 592
+    },
+    {
+      "entry": "ppt/media/image41.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image41.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image41.svg",
+      "bytes": 895
+    },
+    {
+      "entry": "ppt/media/image42.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image42.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image42.svg",
+      "bytes": 858
+    },
+    {
+      "entry": "ppt/media/image43.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image43.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image43.svg",
+      "bytes": 481
+    },
+    {
+      "entry": "ppt/media/image44.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image44.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image44.svg",
+      "bytes": 1092
+    },
+    {
+      "entry": "ppt/media/image45.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image45.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image45.svg",
+      "bytes": 2631
+    },
+    {
+      "entry": "ppt/media/image46.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image46.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image46.svg",
+      "bytes": 924
+    },
+    {
+      "entry": "ppt/media/image47.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image47.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image47.svg",
+      "bytes": 779
+    },
+    {
+      "entry": "ppt/media/image48.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image48.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image48.svg",
+      "bytes": 7890
+    },
+    {
+      "entry": "ppt/media/image49.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image49.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image49.svg",
+      "bytes": 629
+    },
+    {
+      "entry": "ppt/media/image33.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image33.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image33.svg",
+      "bytes": 1480
+    },
+    {
+      "entry": "ppt/media/image50.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image50.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image50.svg",
+      "bytes": 1049
+    },
+    {
+      "entry": "ppt/media/image51.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image51.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image51.svg",
+      "bytes": 5968
+    },
+    {
+      "entry": "ppt/media/image52.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image52.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image52.svg",
+      "bytes": 2002
+    },
+    {
+      "entry": "ppt/media/image53.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image53.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image53.svg",
+      "bytes": 2999
+    },
+    {
+      "entry": "ppt/media/image54.svg",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image54.svg",
+      "relativePath": "template-inspect/assets/ppt/media/image54.svg",
+      "bytes": 1770
+    },
+    {
+      "entry": "ppt/media/image1.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image1.png",
+      "relativePath": "template-inspect/assets/ppt/media/image1.png",
+      "bytes": 2257450
+    },
+    {
+      "entry": "ppt/media/hdphoto1.wdp",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\hdphoto1.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto1.wdp",
+      "bytes": 316798
+    },
+    {
+      "entry": "ppt/media/image2.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image2.png",
+      "relativePath": "template-inspect/assets/ppt/media/image2.png",
+      "bytes": 1776412
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image3.png",
+      "relativePath": "template-inspect/assets/ppt/media/image3.png",
+      "bytes": 8056497
+    },
+    {
+      "entry": "ppt/media/hdphoto2.wdp",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\hdphoto2.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto2.wdp",
+      "bytes": 1042249
+    },
+    {
+      "entry": "ppt/media/image4.png",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\image4.png",
+      "relativePath": "template-inspect/assets/ppt/media/image4.png",
+      "bytes": 360240
+    },
+    {
+      "entry": "ppt/media/hdphoto3.wdp",
+      "path": "C:\\EscapeBackpack\\EscapeBackpack\\Space Station Aurora\\Project Management\\.design-guide-build\\template-inspect\\assets\\ppt\\media\\hdphoto3.wdp",
+      "relativePath": "template-inspect/assets/ppt/media/hdphoto3.wdp",
+      "bytes": 139965
+    }
+  ],
+  "fonts": [
+    "+mj-cs",
+    "+mj-ea",
+    "+mj-lt",
+    "+mn-cs",
+    "+mn-ea",
+    "+mn-lt",
+    "Angsana New",
+    "Aptos",
+    "Aptos Display",
+    "Aptos Mono",
+    "Arial",
+    "Cordia New",
+    "DaunPenh",
+    "DokChampa",
+    "DownCity",
+    "Dreaming Outloud Pro",
+    "Ebrima",
+    "Estrangelo Edessa",
+    "Euphemia",
+    "Gautami",
+    "Iskoola Pota",
+    "Javanese Text",
+    "Kalinga",
+    "Kartika",
+    "Latha",
+    "Leelawadee UI",
+    "MV Boli",
+    "Mangal",
+    "Microsoft Himalaya",
+    "Microsoft JhengHei",
+    "Microsoft New Tai Lue",
+    "Microsoft Tai Le",
+    "Microsoft Uighur",
+    "Microsoft Yi Baiti",
+    "Mongolian Baiti",
+    "MoolBoran",
+    "Myanmar Text",
+    "Nirmala UI",
+    "Nyala",
+    "Orbitron",
+    "Orbitron Black",
+    "Orbitron ExtraBold",
+    "Orbitron Medium",
+    "Phagspa",
+    "Plantagenet Cherokee",
+    "Raavi",
+    "STCaiyun",
+    "Segoe UI",
+    "Shruti",
+    "Sylfaen",
+    "Times New Roman",
+    "Tunga",
+    "Vrinda",
+    "新細明體",
+    "游ゴシック",
+    "游ゴシック Light",
+    "等线",
+    "等线 Light",
+    "맑은 고딕"
+  ],
+  "packageParts": {
+    "mediaCount": 72,
+    "slideXmlCount": 21,
+    "chartCount": 0,
+    "tableSlideCount": 2
+  }
+}

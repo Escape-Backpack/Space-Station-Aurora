@@ -1,0 +1,263 @@
+{"kind":"slide","id":"sl/es0vo8","slide":1,"title":"PROJECT CONTROL DOCUMENT","textShapes":4}
+{"kind":"shape","id":"sh/210vi9kn","slide":1,"name":"cover-panel","bbox":[0,0,660,720]}
+{"kind":"shape","id":"sh/nm9wre18","slide":1,"name":"cover-accent","bbox":[64,72,124,8]}
+{"kind":"textbox","id":"sh/0zidgz2h","slide":1,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/10rep4j2","slide":1,"textChars":26,"textLines":3}
+{"kind":"textbox","id":"sh/ex0vepkb","slide":1,"textChars":69,"textLines":1}
+{"kind":"textbox","id":"sh/fy9wnu1w","slide":1,"textChars":25,"textLines":1}
+{"kind":"image","id":"im/onutkfih","slide":1,"name":"","geometry":"rect","alt":"Banner_Space_Station_Aurora.png from the Space Station Aurora project assets","bbox":[560,0,720,720]}
+{"kind":"slide","id":"sl/w21kiy","slide":2,"title":"FOUNDATION","textShapes":12}
+{"kind":"shape","id":"sh/32psru5o","slide":2,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/onyt0zm9","slide":2,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/po7ut4nu","slide":2,"textChars":42,"textLines":1}
+{"kind":"shape","id":"sh/apgb294f","slide":2,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/bqpcve50","slide":2,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/cryt4jml","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/yt0b6t4b","slide":2,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/zu9czy5w","slide":2,"textChars":52,"textLines":2}
+{"kind":"shape","id":"sh/rqxo3qhc","slide":2,"name":"principle-0","bbox":[470,168,700,112]}
+{"kind":"textbox","id":"sh/q54nul0r","slide":2,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/dsf650z2","slide":2,"textChars":59,"textLines":1}
+{"kind":"shape","id":"sh/cr65wvih","slide":2,"name":"principle-1","bbox":[470,314,700,112]}
+{"kind":"textbox","id":"sh/32dozqh0","slide":2,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/214nql0f","slide":2,"textChars":65,"textLines":1}
+{"kind":"shape","id":"sh/p4v610z6","slide":2,"name":"principle-2","bbox":[470,460,700,112]}
+{"kind":"textbox","id":"sh/43m5svil","slide":2,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/nyhobah4","slide":2,"textChars":67,"textLines":1}
+{"kind":"image","id":"im/oj6d0nmd","slide":2,"name":"","geometry":"rect","alt":"StationAuroraPatch.png from the Space Station Aurora project assets","bbox":[72,164,270,270]}
+{"kind":"slide","id":"sl/47nppn","slide":3,"title":"FOUNDATION","textShapes":17}
+{"kind":"shape","id":"sh/xwbipwnq","slide":3,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/atkze14f","slide":3,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/vutgnm50","slide":3,"textChars":52,"textLines":1}
+{"kind":"shape","id":"sh/8r2hcrm9","slide":3,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/9sbylwnu","slide":3,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/mp0zah43","slide":3,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/nqtgjm5o","slide":3,"name":"arch-bg-0","bbox":[82,160,226,408]}
+{"kind":"textbox","id":"sh/tovixgny","slide":3,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/1ojyt0zm","slide":3,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/0nahkvi1","slide":3,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/fm1grahg","slide":3,"name":"arch-bg-1","bbox":[378,160,226,408]}
+{"kind":"textbox","id":"sh/d0zyp0za","slide":3,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/szqxgvip","slide":3,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ryhgnqh4","slide":3,"textChars":52,"textLines":1}
+{"kind":"shape","id":"sh/qx8fel0j","slide":3,"name":"arch-bg-2","bbox":[674,160,226,408]}
+{"kind":"textbox","id":"sh/cvuhsfi9","slide":3,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/wbm94nah","slide":3,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/hcvadsb2","slide":3,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/u9krixsb","slide":3,"name":"arch-bg-3","bbox":[970,160,226,408]}
+{"kind":"textbox","id":"sh/8729gnal","slide":3,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/98ba9sbq","slide":3,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/m5kredsf","slide":3,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/76ts7it0","slide":3,"textChars":101,"textLines":1}
+{"kind":"image","id":"im/d43y1gri","slide":3,"name":"","geometry":"rect","alt":"StationAuroraPatch.png from the Space Station Aurora project assets","bbox":[118,188,154,154]}
+{"kind":"image","id":"im/10rq5sbi","slide":3,"name":"","geometry":"rect","alt":"MAPLE_Logo_TRansparent.png from the Space Station Aurora project assets","bbox":[414,188,154,154]}
+{"kind":"image","id":"im/apkrixsz","slide":3,"name":"","geometry":"rect","alt":"HAROLD.png from the Space Station Aurora project assets","bbox":[710,188,154,154]}
+{"kind":"image","id":"im/8vmp87qx","slide":3,"name":"","geometry":"rect","alt":"EVIL.png from the Space Station Aurora project assets","bbox":[1006,188,154,154]}
+{"kind":"slide","id":"sl/ak9g9a","slide":4,"title":"FOUNDATION","textShapes":16}
+{"kind":"shape","id":"sh/kfe14vyp","slide":4,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/je50vqx4","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/ydcj2lgj","slide":4,"textChars":35,"textLines":1}
+{"kind":"shape","id":"sh/xc3itgfy","slide":4,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/wbuh0byd","slide":4,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/bal0rqxs","slide":4,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/apczylgn","slide":4,"name":"navy-swatch","bbox":[72,158,510,300]}
+{"kind":"textbox","id":"sh/9o3ipgf2","slide":4,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/onuhwbyh","slide":4,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/i9gjqdsv","slide":4,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/japkji90","slide":4,"name":"orange-swatch","bbox":[614,158,510,300]}
+{"kind":"textbox","id":"sh/4by1s3al","slide":4,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/5cr2l8r6","slide":4,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/u5gjmtsj","slide":4,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/v6pkfy94","slide":4,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/w7y1o3ap","slide":4,"name":"neutral-0","bbox":[72,536,184,52]}
+{"kind":"textbox","id":"sh/h872h8ra","slide":4,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/m1wjitsn","slide":4,"name":"neutral-1","bbox":[283,536,184,52]}
+{"kind":"textbox","id":"sh/725kry98","slide":4,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/bmlgjup0","slide":4,"name":"neutral-2","bbox":[494,536,184,52]}
+{"kind":"textbox","id":"sh/alszqp8f","slide":4,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/x83ylk7q","slide":4,"name":"neutral-3","bbox":[705,536,184,52]}
+{"kind":"textbox","id":"sh/c7uhszq5","slide":4,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/zal0nupw","slide":4,"name":"neutral-4","bbox":[916,536,184,52]}
+{"kind":"textbox","id":"sh/y9czup8b","slide":4,"textChars":3,"textLines":1}
+{"kind":"slide","id":"sl/6xlhvr","slide":5,"title":"FOUNDATION","textShapes":17}
+{"kind":"shape","id":"sh/8ve5wre5","slide":5,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/7ulo3mxk","slide":5,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/6tcnuhwz","slide":5,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/ls361cfe","slide":5,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/k7u5sre9","slide":5,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/j6lozmxo","slide":5,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/y5cnqhw3","slide":5,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/5o76dgvy","slide":5,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/43yp4bed","slide":5,"textChars":53,"textLines":1}
+{"kind":"shape","id":"sh/6987mxwz","slide":5,"name":"type-rule-0","bbox":[72,219,1092,2]}
+{"kind":"textbox","id":"sh/rah8v2xk","slide":5,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/sbqpo7ep","slide":5,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/tczqxcva","slide":5,"textChars":58,"textLines":1}
+{"kind":"shape","id":"sh/ilo7ixwn","slide":5,"name":"type-rule-1","bbox":[72,335,1092,2]}
+{"kind":"textbox","id":"sh/jmh8r2x8","slide":5,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/4nqpk7et","slide":5,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/5ozqtcfe","slide":5,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/2hsruhw7","slide":5,"name":"type-rule-2","bbox":[72,451,1092,2]}
+{"kind":"textbox","id":"sh/3i183mdc","slide":5,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/zmt4ved4","slide":5,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/ylknm9cj","slide":5,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/lovmxovu","slide":5,"name":"type-rule-3","bbox":[72,567,1092,2]}
+{"kind":"shape","id":"sh/0nm5ojup","slide":5,"name":"type-reserved","bbox":[72,620,1092,42]}
+{"kind":"textbox","id":"sh/nqd4zyd0","slide":5,"textChars":106,"textLines":1}
+{"kind":"slide","id":"sl/67h34u","slide":6,"title":"MARKS","textShapes":14}
+{"kind":"shape","id":"sh/t8bu18za","slide":6,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/6l0v6t0j","slide":6,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/7m9czyh4","slide":6,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/gb2dcni1","slide":6,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/hcbu5sz6","slide":6,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/u9kvad0v","slide":6,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/fatc3ihg","slide":6,"name":"logo-field","bbox":[72,158,494,420]}
+{"kind":"textbox","id":"sh/pgvu9szi","slide":6,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/9cnq5sf2","slide":6,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/obe9wneh","slide":6,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/na5832xw","slide":6,"textChars":43,"textLines":1}
+{"kind":"textbox","id":"sh/mpwruxwb","slide":6,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/xg7q9cfy","slide":6,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/wfy907ed","slide":6,"textChars":54,"textLines":1}
+{"kind":"textbox","id":"sh/be5872xs","slide":6,"textChars":52,"textLines":1}
+{"kind":"textbox","id":"sh/adwryxwn","slide":6,"textChars":59,"textLines":1}
+{"kind":"textbox","id":"sh/dk3qx8fu","slide":6,"textChars":86,"textLines":1}
+{"kind":"image","id":"im/hw7yhcf6","slide":6,"name":"","geometry":"rect","alt":"StationAuroraPatch.png from the Space Station Aurora project assets","bbox":[168,206,300,300]}
+{"kind":"slide","id":"sl/qu0wuo","slide":7,"title":"IMAGERY","textShapes":11}
+{"kind":"shape","id":"sh/bih4vidc","slide":7,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/cjql4nux","slide":7,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/dkzmxsvi","slide":7,"textChars":59,"textLines":1}
+{"kind":"shape","id":"sh/yl8n6xc3","slide":7,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/z6h4z2do","slide":7,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/07a58nut","slide":7,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/epo3utwj","slide":7,"name":"world-side","bbox":[812,150,390,470]}
+{"kind":"textbox","id":"sh/fax4nyd4","slide":7,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/baxwjyt4","slide":7,"textChars":48,"textLines":1}
+{"kind":"textbox","id":"sh/q9ofqtcj","slide":7,"textChars":53,"textLines":1}
+{"kind":"textbox","id":"sh/dwzel8ba","slide":7,"textChars":54,"textLines":1}
+{"kind":"textbox","id":"sh/cv6xs3up","slide":7,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/36xwfet8","slide":7,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/25ofmtcn","slide":7,"textChars":49,"textLines":1}
+{"kind":"image","id":"im/kbeh8fyl","slide":7,"name":"","geometry":"rect","alt":"Banner_Space_Station_Aurora.png from the Space Station Aurora project assets","bbox":[64,150,718,470]}
+{"kind":"slide","id":"sl/5g0wzy","slide":8,"title":"IMAGERY","textShapes":9}
+{"kind":"shape","id":"sh/69oredoz","slide":8,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/twza98nq","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/8b69g365","slide":8,"textChars":41,"textLines":1}
+{"kind":"shape","id":"sh/j6xs3y5o","slide":8,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/y5orato3","slide":8,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/l8fa58ne","slide":8,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/a14r6tor","slide":8,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/wjm54fqh","slide":8,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/xkf6xk72","slide":8,"textChars":54,"textLines":1}
+{"kind":"textbox","id":"sh/ax4n258b","slide":8,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/vidovapw","slide":8,"textChars":85,"textLines":1}
+{"kind":"image","id":"im/lk7up0je","slide":8,"name":"","geometry":"rect","alt":"BluePrint_Example.png from the Space Station Aurora project assets","bbox":[72,164,560,392]}
+{"kind":"image","id":"im/adgbql0r","slide":8,"name":"","geometry":"rect","alt":"HAROLD.png from the Space Station Aurora project assets","bbox":[742,172,190,190]}
+{"kind":"slide","id":"sl/rvm7q9","slide":9,"title":"APPLICATIONS","textShapes":13}
+{"kind":"shape","id":"sh/svet47mp","slide":9,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/ra5sbm54","slide":9,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/q9wb2h4j","slide":9,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/107ahwn6","slide":9,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/0zyt8rml","slide":9,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/fy5sfm50","slide":9,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/exwb6h4v","slide":9,"name":"prop-frame-0","bbox":[72,160,250,362]}
+{"kind":"textbox","id":"sh/g3u9wnmh","slide":9,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/69k3uhw7","slide":9,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/7at4nmds","slide":9,"name":"prop-frame-1","bbox":[356,160,250,362]}
+{"kind":"textbox","id":"sh/tcbmpwvi","slide":9,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/ud43y1w3","slide":9,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/ved4r6do","slide":9,"name":"prop-frame-2","bbox":[640,160,250,362]}
+{"kind":"textbox","id":"sh/hgvmtgvu","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ih4321wf","slide":9,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/3id4v6d0","slide":9,"name":"prop-frame-3","bbox":[924,160,250,362]}
+{"kind":"textbox","id":"sh/e5o3qlsn","slide":9,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/18f2lgby","slide":9,"textChars":55,"textLines":1}
+{"kind":"textbox","id":"sh/076lsbad","slide":9,"textChars":108,"textLines":1}
+{"kind":"image","id":"im/03ylsry1","slide":9,"name":"","geometry":"rect","alt":"FishAndNuts.jpg from the Space Station Aurora project assets","bbox":[96,184,202,176]}
+{"kind":"image","id":"im/bu5kf6do","slide":9,"name":"","geometry":"rect","alt":"Betting_Logos.jpg from the Space Station Aurora project assets","bbox":[380,184,202,176]}
+{"kind":"image","id":"im/nq5kb6dc","slide":9,"name":"","geometry":"rect","alt":"Bank_Logo.png from the Space Station Aurora project assets","bbox":[664,184,202,176]}
+{"kind":"image","id":"im/s3qd836p","slide":9,"name":"","geometry":"rect","alt":"EVIL.png from the Space Station Aurora project assets","bbox":[948,184,202,176]}
+{"kind":"slide","id":"sl/l5beuj","slide":10,"title":"APPLICATIONS","textShapes":14}
+{"kind":"shape","id":"sh/dwbih4f2","slide":10,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/qt0zmpgb","slide":10,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/ru90fuxw","slide":10,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/0z2hsjyd","slide":10,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/10bil4fy","slide":10,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/exkzq9gn","slide":10,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/zyt0jex8","slide":10,"name":"crew-bg-0","bbox":[72,156,250,354]}
+{"kind":"textbox","id":"sh/h4ri9kfu","slide":10,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/poza10n6","slide":10,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/on6tsv6l","slide":10,"name":"crew-bg-1","bbox":[356,156,250,354]}
+{"kind":"textbox","id":"sh/21obqlof","slide":10,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/xsza50n2","slide":10,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/crqtwf6h","slide":10,"name":"crew-bg-2","bbox":[640,156,250,354]}
+{"kind":"textbox","id":"sh/ap8bu5or","slide":10,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/lwju9kne","slide":10,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/kvat0f6t","slide":10,"name":"crew-bg-3","bbox":[924,156,250,354]}
+{"kind":"textbox","id":"sh/5cbmlszm","slide":10,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/i903qd0v","slide":10,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/ja94jihg","slide":10,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/sf25wnid","slide":10,"textChars":106,"textLines":1}
+{"kind":"image","id":"im/1knulgje","slide":10,"name":"","geometry":"rect","alt":"Captain.png from the Space Station Aurora project assets","bbox":[90,174,214,214]}
+{"kind":"image","id":"im/c7a9wnut","slide":10,"name":"","geometry":"rect","alt":"Biologist.png from the Space Station Aurora project assets","bbox":[374,174,214,214]}
+{"kind":"image","id":"im/0but07u5","slide":10,"name":"","geometry":"rect","alt":"Engineer_New.png from the Space Station Aurora project assets","bbox":[658,174,214,214]}
+{"kind":"image","id":"im/j258j2to","slide":10,"name":"","geometry":"rect","alt":"Engineer_OG.png from the Space Station Aurora project assets","bbox":[942,174,214,214]}
+{"kind":"slide","id":"sl/grholu","slide":11,"title":"APPLICATIONS","textShapes":10}
+{"kind":"shape","id":"sh/j2pkj6t8","slide":11,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/knylcbut","slide":11,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/lor2lwbe","slide":11,"textChars":49,"textLines":1}
+{"kind":"shape","id":"sh/axgj6hcr","slide":11,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/bypkfmtw","slide":11,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/wzy18ruh","slide":11,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/x072hwb2","slide":11,"name":"terminal","bbox":[72,154,760,454]}
+{"kind":"shape","id":"sh/ut03ilcv","slide":11,"name":"terminal-bar","bbox":[72,154,760,58]}
+{"kind":"textbox","id":"sh/vu9krqtg","slide":11,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/r6lc7els","slide":11,"textChars":110,"textLines":7}
+{"kind":"textbox","id":"sh/ts3u9o3i","slide":11,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/s7ut0j2x","slide":11,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/fulcbylo","slide":11,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/etcb2tk3","slide":11,"textChars":41,"textLines":1}
+{"kind":"image","id":"im/d0nqt0nm","slide":11,"name":"","geometry":"rect","alt":"HAROLD.png from the Space Station Aurora project assets","bbox":[900,158,232,232]}
+{"kind":"slide","id":"sl/xu01mm","slide":12,"title":"PORTFOLIO","textShapes":5}
+{"kind":"shape","id":"sh/8bupovu5","slide":12,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/nalovqtk","slide":12,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/m9c7mlcf","slide":12,"textChars":46,"textLines":1}
+{"kind":"shape","id":"sh/l836tgbu","slide":12,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/07upkbu9","slide":12,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/z61orqto","slide":12,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0bi9cbmx","slide":12,"textChars":51,"textLines":1}
+{"kind":"image","id":"im/bixovyhs","slide":12,"name":"","geometry":"rect","alt":"Banner_Space_Station_Aurora.png from the Space Station Aurora project assets","bbox":[72,156,534,438]}
+{"kind":"image","id":"im/knqpsny9","slide":12,"name":"","geometry":"rect","alt":"BluePrint_Example.png from the Space Station Aurora project assets","bbox":[630,156,270,208]}
+{"kind":"image","id":"im/lozq1sfu","slide":12,"name":"","geometry":"rect","alt":"Captain.png from the Space Station Aurora project assets","bbox":[924,156,270,208]}
+{"kind":"image","id":"im/5k3i9kb6","slide":12,"name":"","geometry":"rect","alt":"Biologist.png from the Space Station Aurora project assets","bbox":[630,386,270,208]}
+{"kind":"image","id":"im/4zu10ful","slide":12,"name":"","geometry":"rect","alt":"Engineer_New.png from the Space Station Aurora project assets","bbox":[924,386,270,208]}
+{"kind":"slide","id":"sl/7l8rly","slide":13,"title":"PORTFOLIO","textShapes":13}
+{"kind":"shape","id":"sh/wnax4rq5","slide":13,"name":"top-rail","bbox":[0,0,1280,14]}
+{"kind":"textbox","id":"sh/vmhwvm9k","slide":13,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ul8f2hsz","slide":13,"textChars":57,"textLines":1}
+{"kind":"shape","id":"sh/9kzetcre","slide":13,"name":"footer-line","bbox":[64,678,1152,2]}
+{"kind":"textbox","id":"sh/8jqx0rat","slide":13,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/7ihwrm98","slide":13,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/mx8fyhs3","slide":13,"name":"mark-bg-0","bbox":[72,158,250,182]}
+{"kind":"textbox","id":"sh/kv6dw7ax","slide":13,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/i5gzeh0v","slide":13,"name":"mark-bg-1","bbox":[356,158,250,182]}
+{"kind":"textbox","id":"sh/4ryhgril","slide":13,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/5s7i9wz6","slide":13,"name":"mark-bg-2","bbox":[640,158,250,182]}
+{"kind":"textbox","id":"sh/v25g3mh4","slide":13,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/w3ehcrip","slide":13,"name":"mark-bg-3","bbox":[924,158,250,182]}
+{"kind":"textbox","id":"sh/mxwz6x0n","slide":13,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/7y5gz2hs","slide":13,"name":"mark-bg-4","bbox":[72,376,250,182]}
+{"kind":"textbox","id":"sh/q58ni9c3","slide":13,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/dsj6t4be","slide":13,"name":"mark-bg-5","bbox":[356,376,250,182]}
+{"kind":"textbox","id":"sh/zu1ovetk","slide":13,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/ytsnm9cz","slide":13,"name":"mark-bg-6","bbox":[640,376,250,182]}
+{"kind":"textbox","id":"sh/0va5oju5","slide":13,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/fyx4jutg","slide":13,"name":"mark-bg-7","bbox":[924,376,250,182]}
+{"kind":"textbox","id":"sh/k3m1kvat","slide":13,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/54v2t0re","slide":13,"textChars":95,"textLines":1}
+{"kind":"image","id":"im/gf6lk729","slide":13,"name":"","geometry":"rect","alt":"StationAuroraPatch.png from the Space Station Aurora project assets","bbox":[107,172,180,120]}
+{"kind":"image","id":"im/cvmxozyt","slide":13,"name":"","geometry":"rect","alt":"MAPLE_Logo_TRansparent.png from the Space Station Aurora project assets","bbox":[391,172,180,120]}
+{"kind":"image","id":"im/psbedkfi","slide":13,"name":"","geometry":"rect","alt":"HAROLD.png from the Space Station Aurora project assets","bbox":[675,172,180,120]}
+{"kind":"image","id":"im/25kfipgr","slide":13,"name":"","geometry":"rect","alt":"EVIL.png from the Space Station Aurora project assets","bbox":[959,172,180,120]}
+{"kind":"image","id":"im/s7ehsnmd","slide":13,"name":"","geometry":"rect","alt":"Bank_Logo.png from the Space Station Aurora project assets","bbox":[107,390,180,120]}
+{"kind":"notice","message":"Truncated: omitted 64 lines. Increase maxChars or narrow target."}
