@@ -12,7 +12,7 @@ superseded_by:
 tags: []
 ---
 
-The HAROLD link (QR) plus mission patches, in an open pocket. The maple-leaf Aurora patch is in-world; see `source/Images/StationAuroraPatch.png`.
+The HAROLD link (QR) plus mission patches, in an open pocket. The current maple-leaf-and-orbit Aurora patch is AS-005; it also supplies the public badge at the designer's request.
 
 ## Starting state
 In the open pocket.

@@ -1,0 +1,163 @@
+[
+  {
+    "sha256": "e2fe03ec4336ba9c02432cf5a1c1bb70391c4a207c14684cfa053d364ebdf7d0",
+    "paths": [
+      "Space-Station-Aurora/source/Brand/icon.png",
+      "EscapeBackpack/Space Station Aurora/Brand/icon.png",
+      "brand/aurora/icon.png"
+    ]
+  },
+  {
+    "sha256": "26df2e917df324a82c4af4849acc2c46f942f2fd6f84f2cfbf7f11c43362d283",
+    "paths": [
+      "Space-Station-Aurora/source/Brand/icon.svg",
+      "EscapeBackpack/Space Station Aurora/Brand/icon.svg",
+      "brand/aurora/icon.svg"
+    ]
+  },
+  {
+    "sha256": "9d05ebe330c967c140b5b96e990eb6f3afffb80046823f7f3bddf7274ed84d9d",
+    "paths": [
+      "Space-Station-Aurora/source/Brand/Superseded_station_mark_v1/icon.png",
+      "EscapeBackpack/Space Station Aurora/Brand/Superseded_station_mark_v1/icon.png",
+      "brand/aurora/Superseded_station_mark_v1/icon.png",
+      "escape-backpack-games/assets/aurora-icon.png",
+      "escapepack-site/design/aurora/files/source/Brand/icon.png"
+    ]
+  },
+  {
+    "sha256": "4124be77d080d6229b9385118824e4a8e1f027f1ea4392955116a3c9dd84209e",
+    "paths": [
+      "Space-Station-Aurora/source/Brand/Superseded_station_mark_v1/icon.svg",
+      "EscapeBackpack/Space Station Aurora/Brand/Superseded_station_mark_v1/icon.svg",
+      "brand/aurora/Superseded_station_mark_v1/icon.svg"
+    ]
+  },
+  {
+    "sha256": "c1009ba442c81ca3d05fd2a58bd86fd0fa8f948d4339e4ef9c71c7d075433e11",
+    "paths": [
+      "Space-Station-Aurora/source/Images/SpaceStationAurora.jpg",
+      "Space-Station-Aurora/assets/patch/Aurora_Patch_Reference_v2.jpg",
+      "EscapeBackpack/Space Station Aurora/Images/SpaceStationAurora.jpg"
+    ]
+  },
+  {
+    "sha256": "f769ef51c58087225a222e9ab0bea655c1419edb4937e4f0894a08dd6580c0db",
+    "paths": [
+      "Space-Station-Aurora/source/Images/StationAuroraPatch.png",
+      "EscapeBackpack/Space Station Aurora/Images/StationAuroraPatch.png"
+    ]
+  },
+  {
+    "sha256": "240d06dc1e4c7e80a83b74c50ec8c52851947d406ac35340e3aeadab8adddf16",
+    "paths": [
+      "Space-Station-Aurora/source/Images/StationAuroraPatch_before_v2.png",
+      "EscapeBackpack/Space Station Aurora/Images/StationAuroraPatch_before_v2.png"
+    ]
+  },
+  {
+    "sha256": "239b05ee39817a710c436abfcc408039e8209bbf717fe80444892ef561a1fb12",
+    "paths": [
+      "Space-Station-Aurora/source/Images/StationAuroraPatch_v2.svg",
+      "Space-Station-Aurora/assets/patch/Aurora_Patch_v2.svg",
+      "EscapeBackpack/Space Station Aurora/Images/StationAuroraPatch_v2.svg",
+      "brand/aurora/patch-v2.svg"
+    ]
+  },
+  {
+    "sha256": "d44426f0717cc5e4a2d9eb5c1b3f20a195c4188d6ee8ff935ed0cda79ef009b4",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v2.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v2.svg"
+    ]
+  },
+  {
+    "sha256": "00a939cfd53316d5d0153faeb1dd40abb435f5b688df58261b3880f8477f1c18",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v2_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v2_2048.png"
+    ]
+  },
+  {
+    "sha256": "31face9b398de6aff086270782c48f9c1c514f0f516b0555239454638a182c48",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v3.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v3.svg"
+    ]
+  },
+  {
+    "sha256": "d793a367ea8b7c7e6062bd348a3d0fb3b6f2c32bd8c409990e7f01c646f68680",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v3_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v3_2048.png"
+    ]
+  },
+  {
+    "sha256": "d925cd2353b8243a9aad954b4b5c2bbc6767c0d33d6f89cdb58b60a0815a519e",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v4.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v4.svg"
+    ]
+  },
+  {
+    "sha256": "b9a1191142f4f2a09cc288c9835ef0c7e71a299ec587c04a082b416f0058d150",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v4_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v4_2048.png"
+    ]
+  },
+  {
+    "sha256": "5447b51d9b7c9fdc0926babc3df53e13e763c22b55b8c1bd55859ac3be1c254b",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v5.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v5.svg"
+    ]
+  },
+  {
+    "sha256": "c7fe7076addcd302ef1544ba2666274ad99d4c29f8c71c467334299a69cb1957",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v5_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v5_2048.png"
+    ]
+  },
+  {
+    "sha256": "0decc362baf8ed59cfb3a6d2f630cf559e1d29e40b4514aa039fbd55e6623388",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v6.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v6.svg"
+    ]
+  },
+  {
+    "sha256": "48dae11d33c1284b0c9975ef6e4db6de1df306e979f0e8a83f6caa34cd3ffcce",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v6_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v6_2048.png"
+    ]
+  },
+  {
+    "sha256": "6c9240c9f4f5c7db0d6e390357464c5942299db2eaecb0268ebda6fbadd6e806",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v7.svg",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v7.svg"
+    ]
+  },
+  {
+    "sha256": "56a78eb1ac59e20892c42588e4f7fa1a2450fb69e728e34ccfef75479f001ee9",
+    "paths": [
+      "Space-Station-Aurora/source/Images/Logos/StationAurora_Logo_v7_2048.png",
+      "EscapeBackpack/Space Station Aurora/Images/Logos/StationAurora_Logo_v7_2048.png"
+    ]
+  },
+  {
+    "sha256": "635a63951c2a0f6f3bf5a7c8a98bb10a66f7f748250345a92e81d78de780a894",
+    "paths": [
+      "Space-Station-Aurora/assets/patch/Aurora_Patch_Ink_v2.svg"
+    ]
+  },
+  {
+    "sha256": "e15c8bf2d89b9db14589f4ad458b97079698fb7ea351eeaa076946d68e1a0c3f",
+    "paths": [
+      "Space-Station-Aurora/assets/patch/Aurora_Patch_v2.png"
+    ]
+  }
+]

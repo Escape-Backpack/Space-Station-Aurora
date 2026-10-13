@@ -8,7 +8,7 @@ for:
 tool: Hand-built SVG (brand/generate.py)
 file: source/Brand/icon.png
 links: [PR-005]
-superseded_by:
+superseded_by: AS-005
 tags: []
 ---
 
