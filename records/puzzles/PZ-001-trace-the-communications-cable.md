@@ -8,7 +8,6 @@ props: [PP-004, PP-005, PP-021]
 needs: []
 mechanic: search
 difficulty: 1
-lock:
 answer: ORBIT
 hint_title: The station map
 publish_hints: no

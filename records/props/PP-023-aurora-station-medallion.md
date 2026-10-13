@@ -5,8 +5,8 @@ type: prop
 status: decided
 form: physical
 source: 3d-print
-found_in:
-container:
+# Where the player finds it: start (loose in the box) or the puzzle whose answer opens its envelope, e.g. PZ-004
+envelope:
 links: [AS-005]
 superseded_by:
 tags: []

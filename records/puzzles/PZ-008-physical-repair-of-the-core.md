@@ -8,7 +8,6 @@ props: [PP-017, PP-018, PP-019, PP-020]
 needs: [PZ-007]
 mechanic: physical
 difficulty: 1
-lock:
 answer: C742
 hint_title: The core service panel
 publish_hints: no

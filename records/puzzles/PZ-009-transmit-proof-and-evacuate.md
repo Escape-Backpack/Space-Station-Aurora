@@ -8,7 +8,6 @@ props: [PP-009, PP-019, PP-020, PP-021]
 needs: [PZ-008]
 mechanic: logic
 difficulty: 2
-lock:
 answer: Protocol 03; Johnson / EVIL / EV-2702 / SG-17 / 573302 / automatic impact isolation / before impact
 hint_title: The final report
 publish_hints: no

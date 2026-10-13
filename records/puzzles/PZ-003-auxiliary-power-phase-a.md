@@ -8,7 +8,6 @@ props: [PP-012, PP-016]
 needs: [PZ-001]
 mechanic: logic
 difficulty: 2
-lock:
 answer: SW1 ON, SW2 OFF, 80/20/60
 hint_title: The console
 publish_hints: no

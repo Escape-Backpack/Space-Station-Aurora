@@ -8,7 +8,6 @@ props: [PP-009, PP-010]
 needs: [PZ-001]
 mechanic: logic
 difficulty: 1
-lock:
 answer: EVIL (payment reference EV-2702)
 hint_title: The bank extract
 publish_hints: no

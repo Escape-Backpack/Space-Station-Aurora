@@ -5,8 +5,8 @@ type: prop
 status: candidate
 form: physical
 source: make
-found_in: start
-container: Main backpack
+# Where the player finds it: start (loose in the box) or the puzzle whose answer opens its envelope, e.g. PZ-004
+envelope: start
 links: [PZ-008]
 superseded_by:
 tags: []
@@ -22,3 +22,7 @@ Remove the bridge, close and refasten.
 
 ## Replacement
 None needed.
+
+## Lock-version notes
+Values from the lock-based version, kept when the adventure moved to envelopes:
+- container: Main backpack

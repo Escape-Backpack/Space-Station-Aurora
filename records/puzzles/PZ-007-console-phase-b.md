@@ -8,7 +8,6 @@ props: [PP-016, PP-017]
 needs: [PZ-006]
 mechanic: logic
 difficulty: 2
-lock:
 answer: SW1 OFF, SW2 ON, 20/80/40, 8536#
 hint_title: The console, second stage
 publish_hints: no

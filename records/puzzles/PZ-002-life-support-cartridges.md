@@ -8,7 +8,6 @@ props: [PP-011]
 needs: [PZ-001]
 mechanic: logic
 difficulty: 2
-lock:
 answer: L12
 hint_title: The cartridge cradle
 publish_hints: no

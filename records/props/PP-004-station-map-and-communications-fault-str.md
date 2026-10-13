@@ -5,8 +5,8 @@ type: prop
 status: candidate
 form: printed
 source: print
-found_in: start
-container: Outer START sleeve
+# Where the player finds it: start (loose in the box) or the puzzle whose answer opens its envelope, e.g. PZ-004
+envelope: start
 links: [PZ-001, PZ-006]
 superseded_by:
 tags: []
@@ -25,3 +25,7 @@ Erase pencil marks or replace the print.
 
 ## Replacement
 Spare print.
+
+## Lock-version notes
+Values from the lock-based version, kept when the adventure moved to envelopes:
+- container: Outer START sleeve

@@ -8,7 +8,6 @@ props: [PP-007, PP-008, PP-013, PP-014]
 needs: [PZ-001]
 mechanic: search
 difficulty: 2
-lock: 4-digit
 answer: 2912
 hint_title: Personal records
 publish_hints: no
@@ -37,3 +36,7 @@ Receipt total 29.12 -> 2912.
 The corrected receipt: peanuts 2.00, walnuts 2.63, shellfish product 17.50, packing service 3.53, subtotal 25.66, tax 13.5% 3.46, total 29.12. The old $6.99 tax line was arithmetically wrong. Purchases are suspicious, not proof.
 
 Source: `source/Project Management/Aurora_Completion_Proposal.md` (a proposal, not accepted canon).
+
+## Lock-version notes
+Values from the lock-based version, kept when the adventure moved to envelopes:
+- lock: 4-digit

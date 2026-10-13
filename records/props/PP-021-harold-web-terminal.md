@@ -5,8 +5,8 @@ type: prop
 status: candidate
 form: digital
 source: make
-found_in: start
-container: Shared device
+# Where the player finds it: start (loose in the box) or the puzzle whose answer opens its envelope, e.g. PZ-004
+envelope: start
 links: [Q-002, Q-008]
 superseded_by:
 tags: []
@@ -25,3 +25,7 @@ Clear saved progress.
 
 ## Replacement
 None needed.
+
+## Lock-version notes
+Values from the lock-based version, kept when the adventure moved to envelopes:
+- container: Shared device

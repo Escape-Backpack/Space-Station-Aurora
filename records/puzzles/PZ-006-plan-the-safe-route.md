@@ -8,7 +8,6 @@ props: [PP-004, PP-015, PP-021]
 needs: [PZ-002, PZ-003, PZ-004, PZ-005]
 mechanic: logic
 difficulty: 2
-lock:
 answer: 8536
 hint_title: The route overlay
 publish_hints: no
